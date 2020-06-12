@@ -1,0 +1,21 @@
+html.iframed {
+    padding-top: 0 !important;
+}
+
+.iframed  #wpcontent {
+    margin: 0;
+}
+
+.iframed #wpbody-content{
+    padding-bottom: 0;
+    min-height: 100vh;
+}
+
+.iframed #wpadminbar,
+.iframed #adminmenuwrap,
+.iframed #adminmenuback,
+.iframed #wpfooter,
+.iframed #screen-meta-links,
+.iframed #screen-meta {
+    display: none;
+}

@@ -1,0 +1,79 @@
+.contact-details{
+    display: block;
+    float: left;
+    /*margin-right: 20px;*/
+    position: relative;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    background: #fff;
+    width: 500px;
+    max-width: 100%;
+    padding: 20px 20px 20px 20px;
+    box-sizing: border-box;
+    margin: 10px 0;
+    /*margin-left: 300px;*/
+}
+
+div.email-status{
+   margin: 20px;
+}
+
+.contact-picture {
+    display: inline-block;
+    float: left;
+    margin: 0 20px 10px 0;
+    position: relative;
+    border: 1px solid #7e8993;
+    /*box-shadow: 0 1px 1px rgba(0,0,0,.04);*/
+    background: #fff;
+}
+
+.contact-picture img {
+    vertical-align: middle;
+}
+
+.basic-details .details {
+    margin: 0 0 10px 2px;
+}
+
+.deal-details .details {
+    margin: 0 0 10px 2px;
+}
+
+.contact-details textarea{
+    width: 100%;
+}
+.basic-details .details .regular-text {
+    width: 20em;
+}
+
+.basic-details .details a {
+    text-decoration: none;
+    padding: 0 4px 1px;
+}
+
+.basic-details .details .dashicons{
+    vertical-align: text-bottom;
+}
+
+.deal-details label {
+    display: block;
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 3px;
+}
+
+#files th:last-child,
+#files th:nth-child(3),
+#files th:nth-child(2)
+{
+    width: 60px;
+}
+
+th p{
+    margin-bottom: 0;
+}
+
+code.meta-replacement-code{
+    font-weight: 400;
+}

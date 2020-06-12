@@ -1,0 +1,7479 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Groundhogg\n"
+"POT-Creation-Date: 2020-05-25 15:53-0400\n"
+"PO-Revision-Date: 2019-11-15 10:49-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: groundhogg.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+"X-Poedit-SearchPathExcluded-3: tests\n"
+"X-Poedit-SearchPathExcluded-4: bin\n"
+"X-Poedit-SearchPathExcluded-5: .idea\n"
+"X-Poedit-SearchPathExcluded-6: *.js\n"
+
+#: admin/admin-page.php:182
+msgid "Per page"
+msgstr ""
+
+#: admin/admin-page.php:324 admin/admin-page.php:327
+msgid "Invalid permissions."
+msgstr ""
+
+#: admin/admin-page.php:412 admin/admin-page.php:428
+#: admin/contacts/contacts-page.php:379 admin/emails/emails-page.php:151
+msgid "Add New"
+msgstr ""
+
+#: admin/broadcasts/add.php:40
+msgid "Select an email to send."
+msgstr ""
+
+#: admin/broadcasts/add.php:54
+msgid "Create New Email"
+msgstr ""
+
+#: admin/broadcasts/add.php:56
+msgid "The Broadcast tool uses your global emails."
+msgstr ""
+
+#: admin/broadcasts/add.php:61
+msgid "Select an SMS to send."
+msgstr ""
+
+#: admin/broadcasts/add.php:74
+msgid "Create New SMS"
+msgstr ""
+
+#: admin/broadcasts/add.php:80
+#: includes/steps/actions/admin-notification.php:117
+#: includes/steps/actions/admin-notification.php:145
+msgid "Send To:"
+msgstr ""
+
+#: admin/broadcasts/add.php:90 admin/broadcasts/add.php:123
+#: admin/contacts/search.php:132 admin/contacts/search.php:161
+#: admin/funnels/funnel-editor-v2.php:394
+#: admin/funnels/funnel-editor-v2.php:424
+#: admin/funnels/funnel-editor-v3.php:376
+#: admin/funnels/funnel-editor-v3.php:406
+msgid "Any"
+msgstr ""
+
+#: admin/broadcasts/add.php:91 admin/broadcasts/add.php:124
+#: admin/contacts/search.php:133 admin/contacts/search.php:162
+#: admin/contacts/tables/contacts-table.php:455
+#: admin/emails/emails-table.php:122 admin/funnels/funnel-editor-v2.php:395
+#: admin/funnels/funnel-editor-v2.php:425
+#: admin/funnels/funnel-editor-v3.php:377
+#: admin/funnels/funnel-editor-v3.php:407
+msgid "All"
+msgstr ""
+
+#: admin/broadcasts/add.php:101 admin/broadcasts/add.php:129
+#: admin/funnels/funnel-editor-v2.php:400
+#: admin/funnels/funnel-editor-v2.php:430
+#: admin/funnels/funnel-editor-v3.php:382
+#: admin/funnels/funnel-editor-v3.php:412
+msgid " of "
+msgstr ""
+
+#: admin/broadcasts/add.php:106
+msgid "This broadcast will be sent to contacts with these tags."
+msgstr ""
+
+#: admin/broadcasts/add.php:110
+#, php-format
+msgid "%d Contacts"
+msgstr ""
+
+#: admin/broadcasts/add.php:115
+msgid "Exclude These Contacts:"
+msgstr ""
+
+#: admin/broadcasts/add.php:137
+msgid "These contacts will be excluded."
+msgstr ""
+
+#: admin/broadcasts/add.php:142
+msgid "Send On:"
+msgstr ""
+
+#: admin/broadcasts/add.php:149
+msgid "&nbsp;or&nbsp;"
+msgstr ""
+
+#: admin/broadcasts/add.php:151
+msgctxt "action"
+msgid "Send Now"
+msgstr ""
+
+#: admin/broadcasts/add.php:157
+msgid "Send Now"
+msgstr ""
+
+#: admin/broadcasts/add.php:160
+msgid "The day the broadcast will be sent."
+msgstr ""
+
+#: admin/broadcasts/add.php:163
+msgctxt "action"
+msgid "Send in the contact's local time."
+msgstr ""
+
+#: admin/broadcasts/add.php:169
+msgid "Send in the contact's local time."
+msgstr ""
+
+#: admin/broadcasts/add.php:173
+msgid ""
+"If checked, this email will be sent at the specified time in their local "
+"timezone. If the time has already passed the email will be scheduled for the "
+"following day."
+msgstr ""
+
+#: admin/broadcasts/add.php:179
+msgctxt "action"
+msgid "Schedule Broadcast"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-page.php:65
+#: admin/broadcasts/broadcasts-page.php:88
+msgctxt "page_title"
+msgid "Broadcasts"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-page.php:85
+msgctxt "page_title"
+msgid "Schedule Broadcast"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-page.php:106
+#, php-format
+msgctxt "notice"
+msgid "%d broadcasts cancelled"
+msgid_plural "%d broadcast cancelled"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/broadcasts/broadcasts-page.php:124
+msgid "Please select an email or SMS to send."
+msgstr ""
+
+#: admin/broadcasts/broadcasts-page.php:135
+#: admin/broadcasts/broadcasts-page.php:141
+msgid "You cannot schedule an email while it is in draft mode."
+msgstr ""
+
+#: admin/broadcasts/broadcasts-page.php:156
+msgid "Please select a tag with at least 1 contact"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-page.php:173
+msgid "Please select a time in the future"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-page.php:191
+msgid "Something went wrong while adding the broadcast."
+msgstr ""
+
+#: admin/broadcasts/broadcasts-page.php:238
+msgid "Schedule Email Broadcast"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-page.php:246
+msgid "Schedule SMS Broadcast"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-page.php:266
+#: admin/broadcasts/broadcasts-page.php:269
+msgctxt "search"
+msgid "Search Broadcasts"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:78
+msgctxt "Column label"
+msgid "Email/SMS"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:79
+msgctxt "Column label"
+msgid "Scheduled By"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:80
+msgctxt "Column label"
+msgid "Scheduled Run Date"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:81
+msgctxt "Column label"
+msgid "Sending To"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:82
+msgctxt "Column label"
+msgid "Stats"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:83
+msgctxt "Column label"
+msgid "Date Scheduled"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:120
+msgctxt "view"
+msgid "Scheduled"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:121
+msgctxt "view"
+msgid "Sent"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:122 admin/events/events-table.php:287
+msgctxt "view"
+msgid "Cancelled"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:159
+#: includes/steps/actions/send-email.php:126
+msgctxt "action"
+msgid "Edit Email"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:161
+msgctxt "action"
+msgid "Edit SMS"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:165
+#: admin/contacts/tables/contact-events-table.php:158
+msgctxt "action"
+msgid "Cancel"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:170
+msgctxt "action"
+msgid "Reporting"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:187
+msgid "Scheduled"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:193
+msgid "Cancelled"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:254
+#: admin/dashboard/widgets/table-widget.php:24
+#: admin/reports/reports-page.php:247
+#: includes/reporting/new-reports/chart-new-contacts.php:25
+#: includes/reporting/new-reports/chart-new-contacts.php:31
+#: includes/reporting/new-reports/table-contacts-by-country.php:17
+#: includes/reporting/new-reports/table-contacts-by-lead-source.php:25
+#: includes/reporting/new-reports/table-contacts-by-search-engines.php:21
+#: includes/reporting/new-reports/table-contacts-by-social-media.php:17
+#: includes/reporting/new-reports/table-contacts-by-source-pages.php:20
+msgid "Contacts"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:279
+msgctxt "stats"
+msgid "Speed"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:294
+msgctxt "stats"
+msgid "Sent"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:312 admin/broadcasts/report.php:109
+#: admin/dashboard/widgets/last-broadcast-widget.php:78
+#: includes/reporting/new-reports/chart-donut-email-stats.php:50
+#: includes/reporting/new-reports/chart-last-broadcast.php:122
+msgctxt "stats"
+msgid "Opened"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:328 admin/broadcasts/report.php:118
+#: admin/dashboard/widgets/last-broadcast-widget.php:87
+#: includes/reporting/new-reports/chart-donut-email-stats.php:67
+#: includes/reporting/new-reports/chart-last-broadcast.php:138
+msgctxt "stats"
+msgid "Clicked"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:353
+#: admin/dashboard/widgets/email-activity.php:46
+#: admin/reports/views/email-step.php:39
+#: includes/reporting/new-reports/base-email-performance-table-report.php:23
+#: includes/reporting/new-reports/table-broadcast-stats.php:65
+#: includes/reporting/new-reports/table-email-funnels-used-in.php:25
+#: includes/steps/actions/send-email.php:281
+#: includes/steps/actions/send-email.php:362
+msgid "Sent"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:353
+msgid "Sending"
+msgstr ""
+
+#: admin/broadcasts/broadcasts-table.php:406 admin/events/events-table.php:251
+msgctxt "List table bulk action"
+msgid "Cancel"
+msgstr ""
+
+#: admin/broadcasts/report.php:32
+msgctxt "notice"
+msgid "Stats will show once the broadcast has been sent."
+msgstr ""
+
+#: admin/broadcasts/report.php:45
+msgid "Stats"
+msgstr ""
+
+#: admin/broadcasts/report.php:49
+msgctxt "stats"
+msgid "Total Delivered"
+msgstr ""
+
+#: admin/broadcasts/report.php:63 includes/steps/actions/send-email.php:205
+msgctxt "stats"
+msgid "Opens"
+msgstr ""
+
+#: admin/broadcasts/report.php:78 includes/steps/actions/send-email.php:218
+msgctxt "stats"
+msgid "Clicks"
+msgstr ""
+
+#: admin/broadcasts/report.php:93
+msgctxt "stats"
+msgid "Click Through Rate"
+msgstr ""
+
+#: admin/broadcasts/report.php:97 admin/broadcasts/report.php:127
+#: admin/dashboard/widgets/last-broadcast-widget.php:96
+#: includes/reporting/new-reports/chart-donut-email-stats.php:84
+#: includes/reporting/new-reports/chart-last-broadcast.php:154
+msgctxt "stats"
+msgid "Unopened"
+msgstr ""
+
+#: admin/broadcasts/report.php:176
+msgctxt "stats"
+msgid "Links Clicked"
+msgstr ""
+
+#: admin/broadcasts/report.php:199
+msgctxt "column_label"
+msgid "Link"
+msgstr ""
+
+#: admin/broadcasts/report.php:200
+msgctxt "column_label"
+msgid "Clicks"
+msgstr ""
+
+#: admin/broadcasts/report.php:208
+msgctxt "notice"
+msgid "No Links Clicked..."
+msgstr ""
+
+#: admin/bulk-jobs/bulk-job-page.php:82
+msgid "Processing..."
+msgstr ""
+
+#: admin/bulk-jobs/bulk-job-page.php:114
+msgid "Do not leave the page till the process is complete!"
+msgstr ""
+
+#: admin/bulk-jobs/bulk-job-page.php:142
+#, php-format
+msgid "Something went wrong. Please contact %s support."
+msgstr ""
+
+#: admin/bulk-jobs/bulk-job-page.php:153
+msgid "Total Complete: "
+msgstr ""
+
+#: admin/bulk-jobs/bulk-job-page.php:156
+msgid "Total Remaining: "
+msgstr ""
+
+#: admin/bulk-jobs/bulk-job-page.php:163
+msgid "### LOG ###"
+msgstr ""
+
+#: admin/bulk-jobs/bulk-job-page.php:172
+msgid "The process is now complete."
+msgstr ""
+
+#: admin/bulk-jobs/bulk-job-page.php:175
+msgid "Return to dashboard."
+msgstr ""
+
+#: admin/contacts/add-contact.php:42
+msgctxt "tab"
+msgid "Quick Add"
+msgstr ""
+
+#: admin/contacts/add-contact.php:43
+msgctxt "tab"
+msgid "Internal Form"
+msgstr ""
+
+#: admin/contacts/add-contact.php:49
+#: admin/dashboard/widgets/last-broadcast-widget.php:42 admin/tags/edit.php:35
+#: includes/reporting/new-reports/table-form-activity.php:24
+#: includes/steps/benchmarks/form-filled.php:523
+msgid "Name"
+msgstr ""
+
+#: admin/contacts/add-contact.php:53 admin/contacts/contact-editor.php:122
+#: admin/contacts/contact-editor.php:126
+#: admin/contacts/tables/contacts-table.php:252 includes/functions.php:1606
+#: templates/preferences.php:205
+msgid "First Name"
+msgstr ""
+
+#: admin/contacts/add-contact.php:63 admin/contacts/contact-editor.php:131
+#: admin/contacts/contact-editor.php:135
+#: admin/contacts/tables/contacts-table.php:257 includes/functions.php:1607
+#: templates/preferences.php:210
+msgid "Last Name"
+msgstr ""
+
+#: admin/contacts/add-contact.php:74
+msgid "Contact Info"
+msgstr ""
+
+#: admin/contacts/add-contact.php:78 admin/contacts/contact-editor.php:140
+#: admin/contacts/contact-editor.php:144
+#: admin/contacts/tables/contacts-table.php:247
+#: admin/reports/reports-page.php:251
+#: includes/steps/benchmarks/form-filled.php:304
+msgid "Email"
+msgstr ""
+
+#: admin/contacts/add-contact.php:89
+msgid "Primary Phone"
+msgstr ""
+
+#: admin/contacts/add-contact.php:100
+msgid "Phone Extension"
+msgstr ""
+
+#: admin/contacts/add-contact.php:111
+msgid "Segmentation"
+msgstr ""
+
+#: admin/contacts/add-contact.php:115
+#: admin/contacts/tables/contacts-table.php:262
+msgid "Owner"
+msgstr ""
+
+#: admin/contacts/add-contact.php:122
+#: admin/contacts/tables/contacts-table.php:283
+msgid "Tags"
+msgstr ""
+
+#: admin/contacts/add-contact.php:133 admin/contacts/contact-editor.php:655
+msgid "Notes"
+msgstr ""
+
+#: admin/contacts/add-contact.php:149
+msgctxt "action"
+msgid "Add Contact"
+msgstr ""
+
+#: admin/contacts/add-contact.php:156 admin/contacts/contact-editor.php:750
+#: admin/contacts/form-admin-submit.php:37
+msgctxt "contact_record"
+msgid "Internal Form"
+msgstr ""
+
+#: admin/contacts/add-contact.php:174 admin/contacts/contact-editor.php:767
+#: admin/contacts/form-admin-submit.php:52
+msgid "Please select a form"
+msgstr ""
+
+#: admin/contacts/add-contact.php:177 admin/contacts/form-admin-submit.php:55
+msgid "Switch Form"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:61
+msgctxt "contact_record"
+msgid "This contact has been deleted."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:71
+msgctxt "contact_record"
+msgid "You are not the owner of this contact."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:82
+msgctxt "contact_record_tab"
+msgid "General Info"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:83
+msgctxt "contact_record_tab"
+msgid "Custom Info"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:84
+msgctxt "contact_record_tab"
+msgid "Segmentation"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:85
+msgctxt "contact_record_tab"
+msgid "Notes"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:86
+msgctxt "contact_record_tab"
+msgid "Files"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:87
+msgctxt "contact_record_tab"
+msgid "Actions"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:88
+msgctxt "contact_record_tab"
+msgid "Activity"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:96
+msgctxt "groundhogg"
+msgid "Local Time:"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:110
+msgid "Profile Picture"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:152
+msgid "Send Email"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:161 admin/settings/settings-page.php:480
+#: includes/filters.php:366 includes/steps/benchmarks/form-filled.php:308
+msgid "Phone"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:163
+#: admin/guided-setup/steps/business-info.php:36 includes/functions.php:1615
+msgid "Phone Number"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:172
+msgid "Call Now"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:215
+msgid "Contact Information"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:220
+msgctxt "contact_record"
+msgid "Email"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:230
+#, php-format
+msgid "Visit %s"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:234
+msgid "Send email."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:238
+msgctxt "contact_record"
+msgid "Email Status"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:244
+msgctxt "contact_record"
+msgid "Mark as unsubscribed."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:251
+msgctxt "contact_record"
+msgid "Manually confirm this email address."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:258
+msgid "Confirmation reason..."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:276
+msgctxt "contact_record"
+msgid "Primary Phone"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:288
+msgctxt "contact_record"
+msgid "Phone Extension"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:299
+msgid "User Account"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:304
+msgid "Username"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:307
+msgctxt "action"
+msgid "Unlink"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:314
+msgctxt "contact_record"
+msgid "Create New Account?"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:318
+msgid "Create User Account"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:319
+msgctxt "contact_record"
+msgid ""
+"This contact does not have an associated user account? Would you like to "
+"create one?"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:324
+msgctxt "contact_record"
+msgid "Link Existing Account?"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:327
+msgctxt "contact_record"
+msgid "Select a User Account (optional)"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:330
+msgctxt "contact_record"
+msgid "You can link an existing user account to this contact."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:337
+msgid "Personal Info"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:341
+msgctxt "contact_record"
+msgid "Birthday"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:369 includes/form/fields/birthday.php:106
+msgid "Year"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:378 includes/form/fields/birthday.php:118
+msgid "Month"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:387 includes/form/fields/birthday.php:130
+msgid "Day"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:394
+#, php-format
+msgid " %d years old."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:405
+msgctxt "contact_record"
+msgid "Company Info"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:408
+msgctxt "contact_record"
+msgid "Company Name"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:419
+msgctxt "contact_record"
+msgid "Job Title"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:430
+msgctxt "contact_record"
+msgid "Full Company Address"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:445
+msgctxt "contact_record"
+msgid "Location"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:450
+msgctxt "contact_record"
+msgid "Street Address 1"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:462
+msgctxt "contact_record"
+msgid "Street Address 2"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:473
+msgctxt "contact_record"
+msgid "City"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:484
+msgctxt "contact_record"
+msgid "Postal/Zip Code"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:495
+msgctxt "contact_record"
+msgid "State/Province"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:506
+msgctxt "contact_record"
+msgid "Country"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:514
+msgctxt "contact_record"
+msgid "Select a Country"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:521
+msgctxt "contact_record"
+msgid "IP Address"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:531
+msgctxt "action"
+msgid "Extrapolate Location"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:538
+msgctxt "contact_record"
+msgid "Time Zone"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:554
+msgctxt "contact_record"
+msgid "Compliance"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:558
+msgctxt "contact_record"
+msgid "Agreed To Terms"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:559 admin/contacts/contact-editor.php:564
+msgid "Agreed"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:563 includes/functions.php:1631
+msgid "GDPR Consent"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:582
+msgctxt "contact_record"
+msgid "Segmentation"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:586
+msgctxt "contact_record"
+msgid "Owner"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:591
+msgctxt "contact_record"
+msgid "Source Page"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:604
+msgid "This is the page which the contact first submitted a form."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:609
+msgctxt "contact_record"
+msgid "Lead Source"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:621
+msgid "This is where the contact originated from."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:625
+msgctxt "contact_record"
+msgid "Tags"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:638
+msgctxt "contact_record"
+msgid "Add new tags by hitting [Enter] or by typing a [,]."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:658
+msgctxt "contact_record"
+msgid "Add Note"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:668
+msgctxt "action"
+msgid "Add Note"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:699 admin/funnels/funnel-editor-v2.php:270
+#: admin/funnels/funnel-editor-v3.php:251 admin/funnels/funnel-editor.php:203
+msgid "Actions"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:702
+msgctxt "contact_record"
+msgid "Send Email"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:708
+msgid "Send"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:715
+msgctxt "contact_record"
+msgid "Add To Funnel"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:744
+msgid "Start"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:773
+msgid "Submit Form"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:790
+msgctxt "contact_record"
+msgid "Files"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:829 admin/contacts/contact-editor.php:1042
+#: admin/contacts/tables/contacts-table.php:591 admin/tags/edit.php:51
+#: admin/tags/tags-table.php:242
+msgid "Delete"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:836
+msgctxt "contact_record"
+msgid "Name"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:837
+msgctxt "contact_record"
+msgid "Size"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:838
+msgctxt "contact_record"
+msgid "Type"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:839
+msgctxt "contact_record"
+msgid "Actions"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:858
+msgctxt "contact_record"
+msgid "Custom Meta"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:864
+msgctxt "contact_record"
+msgid "Add Meta"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:866
+msgid "Key"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:867 admin/contacts/search.php:251
+#: includes/steps/benchmarks/form-filled.php:562
+msgid "Value"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:887
+msgid "Replacement code"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:944
+msgctxt "contact_record"
+msgid "Upcoming Events"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:945
+msgctxt "contact_record"
+msgid ""
+"Any upcoming funnel steps will show up here. you can choose to cancel them "
+"or to run them immediately."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:952
+msgctxt "contact_record"
+msgid "Recent Funnel History"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:953
+msgctxt "contact_record"
+msgid ""
+"Any previous funnel steps will show up here. You can choose run them again."
+"<br/>This report only shows the 10 most recent events, to see more you can "
+"see all this contact's history in the event queue."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:960
+msgctxt "contact_record"
+msgid "Recent Email History"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:962
+msgctxt "contact_record"
+msgid ""
+"This is where you can check if this contact is interacting with your emails."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:968
+msgctxt "contact_record"
+msgid "Form Submissions"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:970
+msgctxt "contact_record"
+msgid ""
+"Any previous form submissions from this contact will show below as of "
+"version 2.0."
+msgstr ""
+
+#: admin/contacts/contact-editor.php:1006
+msgid "Form Name"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:1007
+msgid "Date Submitted"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:1008
+msgid "Submission Data"
+msgstr ""
+
+#: admin/contacts/contact-editor.php:1040
+msgctxt "action"
+msgid "Update Contact"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:69 admin/contacts/contacts-page.php:370
+msgctxt "page_title"
+msgid "Contacts"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:117 admin/emails/emails-page.php:44
+#: admin/funnels/funnels-page.php:59
+msgid "Add"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:125
+#: admin/contacts/tables/contacts-table.php:556
+#: admin/contacts/tables/contacts-table.php:557 admin/emails/emails-page.php:54
+#: admin/emails/emails-table.php:170 admin/funnels/funnels-page.php:64
+#: admin/tags/tags-table.php:233 admin/tags/tags-table.php:234
+msgid "Edit"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:142 admin/funnels/funnels-page.php:216
+#: admin/reports/reports-page.php:243
+msgid "Overview"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:143
+msgid ""
+"This is where you can manage and view your contacts. Click the quick edit to "
+"quickly change contact details."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:150 admin/funnels/funnels-page.php:233
+msgid "Editing"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:151
+msgid ""
+"While editing a contact you can modify any of their personal information. "
+"There are several points of interest..."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:153
+msgid ""
+"Manually unsubscribe a contact by checking the \"mark as unsubscribed\" "
+"button."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:154
+msgid ""
+"Make sure your in compliance by ensuring the terms of agreement and GDPR "
+"consent are both checked under the compliance section."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:155
+msgid "View the origin of the contact by looking at the lead source field."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:156
+msgid ""
+"Add or remove custom information about the contact by enabling the \"Edit "
+"Meta\" section. Each meta also includes a replacement code to include it in "
+"an email."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:157
+msgid ""
+"Re-run or cancel events for this contact by viewing the \"Upcoming Events\" "
+"or \"Recent History\" Section"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:158
+msgid ""
+"Monitor their engagement by looking in the \"Recent Email History\" section."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:341
+msgctxt "page_title"
+msgid "Add Contact"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:347
+#, php-format
+msgctxt "page_title"
+msgid "Edit Contact: %s"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:349
+msgctxt "page_title"
+msgid "Oops!"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:359
+#, php-format
+msgctxt "page_title"
+msgid "Submit Form For %s"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:361
+msgctxt "page_title"
+msgid "Submit Form"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:366
+msgctxt "page_title"
+msgid "Search Contacts"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:385 admin/tools/imports-table.php:250
+#: admin/tools/tools-page.php:163 admin/tools/tools-page.php:560
+msgid "Import"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:391 admin/contacts/search.php:312
+msgid "Search"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:411 admin/contacts/contacts-page.php:427
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:423
+#, php-format
+msgctxt "page_title"
+msgid "Sorry, the email %s already belongs to another contact."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:433
+msgid "Could not add contact."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:452
+msgctxt "notice"
+msgid "Contact created!"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:503
+msgid "Contact id not found."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:558 admin/contacts/contacts-page.php:909
+#, php-format
+msgctxt "notice"
+msgid "Sorry, the email %s already belongs to another contact."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:599
+msgctxt "notice"
+msgid "Location updated."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:626
+msgid "The birthday date provided is not a valid date."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:647 admin/contacts/contacts-page.php:936
+msgid "Hmm, looks like we could not add the new tags..."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:659
+msgctxt "notice"
+msgid "This contact will no longer receive marketing."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:671
+msgctxt "notice"
+msgid "This contact's email address has been confirmed."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:675
+msgid "A reason is required to change the email confirmation status."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:687
+msgctxt "notice"
+msgid "The email has been added to the queue and will send shortly."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:694
+msgctxt "notice"
+msgid "Contact added to funnel."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:721
+msgctxt "notice"
+msgid "Contact updated!"
+msgstr ""
+
+#: admin/contacts/contacts-page.php:739
+#, php-format
+msgctxt "notice"
+msgid "Deleted %d contact"
+msgid_plural "Deleted %d contacts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/contacts/contacts-page.php:769
+#, php-format
+msgctxt "notice"
+msgid "Marked %d contact as spam."
+msgid_plural "Marked %d contacts as spam."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/contacts/contacts-page.php:790 admin/contacts/contacts-page.php:811
+#, php-format
+msgctxt "notice"
+msgid "Approved %d contact."
+msgid_plural "Approved %d contacts."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/contacts/contacts-page.php:834
+#, php-format
+msgctxt "notice"
+msgid "Applied %d tags to %d contact"
+msgid_plural "Applied %d tags to %d contacts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/contacts/contacts-page.php:863
+#, php-format
+msgctxt "notice"
+msgid "Removed %d tags from %d contact"
+msgid_plural "Removed %d tags from %d contacts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/contacts/contacts-page.php:901
+msgctxt "notice"
+msgid "Email cannot be blank."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:903
+msgctxt "notice"
+msgid "Invalid email address."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:981
+msgid "File deleted."
+msgstr ""
+
+#: admin/contacts/contacts-page.php:1000
+msgid "Search Contacts"
+msgstr ""
+
+#: admin/contacts/search.php:26
+msgid "Filter By First Name"
+msgstr ""
+
+#: admin/contacts/search.php:34 admin/contacts/search.php:67
+#: admin/contacts/search.php:100 admin/contacts/search.php:232
+msgid "Equals"
+msgstr ""
+
+#: admin/contacts/search.php:35 admin/contacts/search.php:68
+#: admin/contacts/search.php:101 admin/contacts/search.php:236
+msgid "Contains"
+msgstr ""
+
+#: admin/contacts/search.php:36 admin/contacts/search.php:69
+#: admin/contacts/search.php:102
+msgid "Starts with"
+msgstr ""
+
+#: admin/contacts/search.php:37 admin/contacts/search.php:70
+#: admin/contacts/search.php:103
+msgid "Ends with"
+msgstr ""
+
+#: admin/contacts/search.php:50
+msgid "John"
+msgstr ""
+
+#: admin/contacts/search.php:59
+msgid "Filter By Last Name"
+msgstr ""
+
+#: admin/contacts/search.php:84
+msgid "Doe"
+msgstr ""
+
+#: admin/contacts/search.php:93
+msgid "Filter By Email"
+msgstr ""
+
+#: admin/contacts/search.php:116
+msgid "example@mydomain.com"
+msgstr ""
+
+#: admin/contacts/search.php:125
+msgid "Includes contacts with"
+msgstr ""
+
+#: admin/contacts/search.php:153
+msgid "Excludes contacts with"
+msgstr ""
+
+#: admin/contacts/search.php:182
+msgid "Filter By Optin Status"
+msgstr ""
+
+#: admin/contacts/search.php:190 admin/contacts/tables/contacts-table.php:460
+#: admin/dashboard/widgets/optin-status-widget.php:67
+#: includes/reporting/new-reports/chart-contacts-by-optin-status.php:54
+msgid "Unconfirmed"
+msgstr ""
+
+#: admin/contacts/search.php:191 admin/contacts/tables/contacts-table.php:465
+#: admin/dashboard/widgets/optin-status-widget.php:70
+#: includes/reporting/new-reports/chart-contacts-by-optin-status.php:57
+#: templates/preferences.php:371
+msgid "Confirmed"
+msgstr ""
+
+#: admin/contacts/search.php:192 admin/contacts/tables/contacts-table.php:480
+#: admin/dashboard/widgets/optin-status-widget.php:79
+#: includes/reporting/new-reports/chart-contacts-by-optin-status.php:66
+#: includes/reporting/new-reports/table-broadcast-stats.php:131
+#: includes/reporting/new-reports/table-email-stats.php:101
+#: templates/preferences.php:344
+msgid "Unsubscribed"
+msgstr ""
+
+#: admin/contacts/search.php:193 admin/contacts/tables/contacts-table.php:470
+msgid "Weekly"
+msgstr ""
+
+#: admin/contacts/search.php:194 admin/contacts/tables/contacts-table.php:475
+msgid "Monthly"
+msgstr ""
+
+#: admin/contacts/search.php:195 admin/contacts/tables/contacts-table.php:490
+#: admin/dashboard/widgets/optin-status-widget.php:73
+#: includes/reporting/new-reports/chart-contacts-by-optin-status.php:60
+msgid "Bounced"
+msgstr ""
+
+#: admin/contacts/search.php:196 admin/contacts/tables/contacts-table.php:485
+#: admin/contacts/tables/contacts-table.php:582
+#: admin/dashboard/widgets/optin-status-widget.php:76
+#: admin/reports/views/email.php:45
+#: includes/reporting/new-reports/chart-contacts-by-optin-status.php:63
+msgid "Spam"
+msgstr ""
+
+#: admin/contacts/search.php:197 admin/contacts/tables/contacts-table.php:495
+msgid "Complained"
+msgstr ""
+
+#: admin/contacts/search.php:209
+msgid "Filter By Meta"
+msgstr ""
+
+#: admin/contacts/search.php:220
+msgid "Select a meta key"
+msgstr ""
+
+#: admin/contacts/search.php:233
+msgid "Not Equals"
+msgstr ""
+
+#: admin/contacts/search.php:234
+msgid "Greater than"
+msgstr ""
+
+#: admin/contacts/search.php:235
+msgid "Less than"
+msgstr ""
+
+#: admin/contacts/search.php:237
+msgid "Does not contain"
+msgstr ""
+
+#: admin/contacts/search.php:261
+msgid "Filter By Date"
+msgstr ""
+
+#: admin/contacts/search.php:264
+msgid "From: "
+msgstr ""
+
+#: admin/contacts/search.php:279
+msgid "To: "
+msgstr ""
+
+#: admin/contacts/search.php:295
+msgid "Filter By Owner"
+msgstr ""
+
+#: admin/contacts/tables/contact-activity-table.php:68
+#: admin/contacts/tables/contacts-table.php:176
+msgctxt "Column label"
+msgid "Email"
+msgstr ""
+
+#: admin/contacts/tables/contact-activity-table.php:69
+msgctxt "Column label"
+msgid "Opened"
+msgstr ""
+
+#: admin/contacts/tables/contact-activity-table.php:70
+msgctxt "Column label"
+msgid "Clicked"
+msgstr ""
+
+#: admin/contacts/tables/contact-activity-table.php:71
+msgctxt "Column label"
+msgid "Sent"
+msgstr ""
+
+#: admin/contacts/tables/contact-events-table.php:72
+#: admin/events/events-table.php:70
+msgctxt "Column label"
+msgid "Funnel"
+msgstr ""
+
+#: admin/contacts/tables/contact-events-table.php:73
+#: admin/events/events-table.php:71
+msgctxt "Column label"
+msgid "Step"
+msgstr ""
+
+#: admin/contacts/tables/contact-events-table.php:74
+#: admin/events/events-table.php:72
+msgctxt "Column label"
+msgid "Time"
+msgstr ""
+
+#: admin/contacts/tables/contact-events-table.php:75
+msgctxt "Column label"
+msgid "Actions"
+msgstr ""
+
+#: admin/contacts/tables/contact-events-table.php:99
+msgctxt "contact_record"
+msgid "View All Events"
+msgstr ""
+
+#: admin/contacts/tables/contact-events-table.php:102
+#: admin/events/events-table.php:371
+msgctxt "action"
+msgid "Process Events"
+msgstr ""
+
+#: admin/contacts/tables/contact-events-table.php:127
+#: admin/contacts/tables/contact-events-table.php:128
+#: admin/events/events-table.php:346 admin/events/events-table.php:347
+msgctxt "action"
+msgid "Edit Funnel"
+msgstr ""
+
+#: admin/contacts/tables/contact-events-table.php:136
+#: admin/contacts/tables/contact-events-table.php:137
+#: admin/events/events-table.php:357 admin/events/events-table.php:358
+msgctxt "action"
+msgid "Edit Step"
+msgstr ""
+
+#: admin/contacts/tables/contact-events-table.php:157
+msgctxt "action"
+msgid "Run Now"
+msgstr ""
+
+#: admin/contacts/tables/contact-events-table.php:160
+msgctxt "action"
+msgid "Run Again"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:177
+msgctxt "Column label"
+msgid "First Name"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:178
+msgctxt "Column label"
+msgid "Last Name"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:179
+msgctxt "Column label"
+msgid "Username"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:180
+msgctxt "Column label"
+msgid "Owner"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:181
+#: admin/funnels/funnels-table.php:78
+msgctxt "Column label"
+msgid "Date Created"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:244
+msgid "Quick Edit"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:265
+msgid "Select an owner"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:276
+msgctxt "action"
+msgid "Unsubscribe this contact."
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:292
+#: admin/events/events-table.php:317 admin/funnels/funnel-editor-v2.php:179
+#: admin/funnels/funnel-editor-v3.php:172 admin/funnels/funnels-page.php:182
+#: includes/steps/funnel-step.php:692 templates/preferences.php:325
+msgid "Cancel"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:295
+#: admin/dashboard/widgets/funnel-breakdown.php:78
+#: admin/dashboard/widgets/region-widget.php:82
+#: admin/emails/email-editor.php:58 admin/funnels/funnel-editor-v2.php:161
+#: admin/funnels/funnel-editor.php:161 admin/tags/edit.php:50
+msgid "Update"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:436
+msgctxt "List table bulk action"
+msgid "Apply Tag"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:437
+msgctxt "List table bulk action"
+msgid "Remove Tag"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:438 admin/tags/tags-table.php:155
+#: admin/tools/exports-table.php:138 admin/tools/imports-table.php:139
+msgctxt "List table bulk action"
+msgid "Delete"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:439
+msgctxt "List table bulk action"
+msgid "Spam"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:440
+msgctxt "List table bulk action"
+msgid "Unspam"
+msgstr ""
+
+#. translators: %s: title
+#: admin/contacts/tables/contacts-table.php:546
+#, php-format
+msgid "Quick edit &#8220;%s&#8221; inline"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:547
+msgid "Quick&nbsp;Edit"
+msgstr ""
+
+#. translators: %s: title
+#: admin/contacts/tables/contacts-table.php:565
+#, php-format
+msgctxt "action"
+msgid "Mark %s as approved."
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:566
+msgid "Approve"
+msgstr ""
+
+#. translators: %s: title
+#: admin/contacts/tables/contacts-table.php:573
+#, php-format
+msgctxt "action"
+msgid "Mark %s as a valid email."
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:574
+msgctxt "action"
+msgid "Valid Email"
+msgstr ""
+
+#. translators: %s: title
+#: admin/contacts/tables/contacts-table.php:581
+#, php-format
+msgctxt "action"
+msgid "Mark %s as spam"
+msgstr ""
+
+#. translators: %s: title
+#: admin/contacts/tables/contacts-table.php:590 admin/tags/tags-table.php:241
+#, php-format
+msgid "Delete &#8220;%s&#8221; permanently"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:622
+msgid "Bulk Apply/Remove Tags"
+msgstr ""
+
+#: admin/contacts/tables/contacts-table.php:644 admin/tools/tools-page.php:734
+#, php-format
+msgctxt "action"
+msgid "Export %s contact"
+msgid_plural "Export %s contacts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/dashboard/widgets/circle-graph.php:108
+#: admin/dashboard/widgets/line-graph.php:204
+#: admin/dashboard/widgets/table-widget.php:76 includes/utils/graph.php:205
+msgid "No data to show yet."
+msgstr ""
+
+#: admin/dashboard/widgets/circle-graph.php:154
+#: admin/dashboard/widgets/table-widget.php:125
+msgid "Other"
+msgstr ""
+
+#: admin/dashboard/widgets/country-widget.php:37
+#: admin/guided-setup/steps/business-info.php:60
+#: admin/settings/settings-page.php:468 includes/form/fields/address.php:102
+#: includes/functions.php:1622
+#: includes/reporting/new-reports/table-contacts-by-country.php:16
+msgid "Country"
+msgstr ""
+
+#: admin/dashboard/widgets/country-widget.php:38
+#: admin/dashboard/widgets/optin-status-widget.php:46
+#: admin/dashboard/widgets/region-widget.php:41
+msgid "Total"
+msgstr ""
+
+#: admin/dashboard/widgets/country-widget.php:39
+#: admin/dashboard/widgets/optin-status-widget.php:47
+#: admin/dashboard/widgets/region-widget.php:42
+msgid "Percentage (%)"
+msgstr ""
+
+#: admin/dashboard/widgets/country-widget.php:67
+#: admin/emails/emails-table.php:238 includes/classes/event.php:329
+#: includes/classes/event.php:340
+#: includes/reporting/new-reports/chart-contacts-by-country.php:37
+#: includes/reporting/new-reports/chart-contacts-by-region.php:72
+#: includes/reporting/new-reports/table-broadcast-link-clicked.php:108
+#: includes/reporting/new-reports/table-contacts-by-country.php:62
+#: includes/reporting/new-reports/table-email-links-clicked.php:103
+msgid "Unknown"
+msgstr ""
+
+#: admin/dashboard/widgets/email-activity.php:25
+#: admin/reports/views/email.php:7
+msgid "Email Activity"
+msgstr ""
+
+#: admin/dashboard/widgets/email-activity.php:47
+#: includes/steps/actions/send-email.php:363
+msgid "Opens (O.R)"
+msgstr ""
+
+#: admin/dashboard/widgets/email-activity.php:48
+#: includes/steps/actions/send-email.php:364
+msgid "Clicks (C.T.R)"
+msgstr ""
+
+#: admin/dashboard/widgets/form-activity.php:26
+msgid "Form Activity"
+msgstr ""
+
+#: admin/dashboard/widgets/form-activity.php:45
+#: includes/steps/benchmarks/form-filled.php:925
+#: includes/steps/benchmarks/form-filled.php:957
+msgid "Impressions"
+msgstr ""
+
+#: admin/dashboard/widgets/form-activity.php:46
+#: includes/reporting/new-reports/table-form-activity.php:27
+#: includes/steps/benchmarks/form-filled.php:929
+#: includes/steps/benchmarks/form-filled.php:958
+msgid "Submissions"
+msgstr ""
+
+#: admin/dashboard/widgets/form-activity.php:47
+#: includes/steps/benchmarks/form-filled.php:959
+msgid "Conversion Rate (%)"
+msgstr ""
+
+#: admin/dashboard/widgets/funnel-breakdown.php:41
+#: admin/reports/views/funnels.php:70
+msgid "Funnel Breakdown"
+msgstr ""
+
+#: admin/dashboard/widgets/funnel-breakdown.php:153
+#: admin/funnels/funnel-editor-v2.php:219
+#: includes/reporting/new-reports/table-email-funnels-used-in.php:24
+msgid "Step"
+msgstr ""
+
+#: admin/dashboard/widgets/funnel-breakdown.php:154
+#: admin/funnels/funnel-editor-v2.php:220 includes/steps/funnel-step.php:595
+msgid "Complete"
+msgstr ""
+
+#: admin/dashboard/widgets/funnel-breakdown.php:155
+#: admin/funnels/funnel-editor-v2.php:221
+#: includes/reporting/new-reports/table-funnel-stats.php:27
+#: includes/steps/funnel-step.php:569
+msgid "Waiting"
+msgstr ""
+
+#: admin/dashboard/widgets/last-broadcast-widget.php:43
+msgid "Total Sent"
+msgstr ""
+
+#: admin/dashboard/widgets/last-broadcast-widget.php:44
+msgid "Opened"
+msgstr ""
+
+#: admin/dashboard/widgets/last-broadcast-widget.php:45
+msgid "Clicked"
+msgstr ""
+
+#: admin/dashboard/widgets/lead-sources.php:51 includes/functions.php:1628
+#: includes/reporting/new-reports/table-contacts-by-lead-source.php:24
+msgid "Lead Source"
+msgstr ""
+
+#: admin/dashboard/widgets/new-contacts.php:23
+#: admin/dashboard/widgets/new-contacts.php:48
+#: admin/reports/views/contacts.php:13 admin/reports/views/contacts.php:26
+#: admin/reports/views/overview.php:12 admin/reports/views/overview.php:22
+#: includes/reporting/reports/new-contacts.php:39
+msgid "New Contacts"
+msgstr ""
+
+#: admin/dashboard/widgets/new-contacts.php:47
+msgid "Total Contacts"
+msgstr ""
+
+#: admin/dashboard/widgets/new-contacts.php:49
+msgid "Growth (%)"
+msgstr ""
+
+#: admin/dashboard/widgets/optin-status-widget.php:45 admin/emails/add.php:64
+#: admin/emails/email-editor.php:87
+msgid "Status"
+msgstr ""
+
+#: admin/dashboard/widgets/region-widget.php:40
+msgid "Region"
+msgstr ""
+
+#: admin/dashboard/widgets/search-engines.php:56
+#: includes/reporting/new-reports/table-contacts-by-search-engines.php:20
+#: includes/reporting/new-reports/table-contacts-by-social-media.php:16
+msgid "Search Engines"
+msgstr ""
+
+#: admin/dashboard/widgets/social-platforms.php:53
+msgid "Social Platform"
+msgstr ""
+
+#: admin/dashboard/widgets/source-pages.php:51 includes/functions.php:1629
+#: includes/reporting/new-reports/table-contacts-by-source-pages.php:19
+msgid "Source Page"
+msgstr ""
+
+#: admin/dashboard/widgets/time-range-picker.php:36
+msgid "Refresh"
+msgstr ""
+
+#: admin/dashboard/widgets/time-range-picker.php:80
+#, php-format
+msgid "Showing results from %s to %s."
+msgstr ""
+
+#: admin/dashboard/widgets/time-range-picker.php:81
+msgid "Use this form to quickly change the reporting time range."
+msgstr ""
+
+#: admin/dashboard/widgets/time-range-picker.php:90
+msgid "Time Range"
+msgstr ""
+
+#: admin/dashboard/widgets/utm-campaigns.php:51 includes/functions.php:1636
+msgid "UTM Campaign"
+msgstr ""
+
+#: admin/emails/add-new.php:39
+msgid "New Email"
+msgstr ""
+
+#: admin/emails/add-new.php:40
+msgid "My Emails"
+msgstr ""
+
+#: admin/emails/add-new.php:46
+msgid "Saved Templates"
+msgstr ""
+
+#: admin/emails/add-new.php:71 admin/emails/add-new.php:124
+#: admin/emails/emails-page.php:480
+msgid "Subject: "
+msgstr ""
+
+#: admin/emails/add-new.php:72 admin/emails/add-new.php:125
+#: admin/emails/emails-page.php:481
+msgid "Pre-Header: "
+msgstr ""
+
+#: admin/emails/add-new.php:77 admin/emails/add-new.php:131
+#: admin/emails/emails-page.php:485
+msgid "Start Writing"
+msgstr ""
+
+#: admin/emails/add-new.php:79
+msgid "Edit Template"
+msgstr ""
+
+#: admin/emails/add-new.php:104
+msgid "Search your previous emails and use them as a starting point."
+msgstr ""
+
+#: admin/emails/add-new.php:106
+msgid "Type in a search term like \"Special\"..."
+msgstr ""
+
+#: admin/emails/add.php:58 admin/funnels/funnel-editor-v3.php:77
+#: admin/funnels/funnels-page.php:177
+msgid "Save"
+msgstr ""
+
+#: admin/emails/add.php:60
+msgid "Create"
+msgstr ""
+
+#: admin/emails/add.php:75 admin/emails/email-editor.php:98
+#: includes/reporting/new-reports/table-benchmark-conversion-rate.php:21
+msgid "From"
+msgstr ""
+
+#: admin/emails/add.php:77 admin/emails/email-editor.php:100
+#: admin/emails/emails-table.php:225
+msgid "The Contact's Owner"
+msgstr ""
+
+#: admin/emails/add.php:84 admin/emails/email-editor.php:107
+msgid "Choose who this email comes from."
+msgstr ""
+
+#: admin/emails/add.php:86 admin/emails/email-editor.php:109
+msgid "Reply To"
+msgstr ""
+
+#: admin/emails/add.php:94 admin/emails/email-editor.php:118
+msgid ""
+"Override the email address replies are sent to. Leave empty to default to "
+"the sender address."
+msgstr ""
+
+#: admin/emails/add.php:96 admin/emails/email-editor.php:120
+msgid "Alignment"
+msgstr ""
+
+#: admin/emails/add.php:99 admin/emails/email-editor.php:125
+#: admin/settings/settings-page.php:847
+msgid "Left"
+msgstr ""
+
+#: admin/emails/add.php:100 admin/emails/email-editor.php:128
+#: admin/settings/settings-page.php:846
+msgid "Center"
+msgstr ""
+
+#: admin/emails/add.php:103 admin/emails/email-editor.php:147
+msgid "Additional"
+msgstr ""
+
+#: admin/emails/add.php:106 admin/emails/email-editor.php:150
+msgid "Enable browser view"
+msgstr ""
+
+#: admin/emails/add.php:115 admin/emails/email-editor.php:160
+msgid "Save as template"
+msgstr ""
+
+#: admin/emails/add.php:124 admin/emails/email-editor.php:170
+msgid "Use custom Alt-Body"
+msgstr ""
+
+#: admin/emails/add.php:136
+msgid "Admin title"
+msgstr ""
+
+#: admin/emails/add.php:142 admin/emails/email-editor.php:189
+msgid "Subject & Pre-Header"
+msgstr ""
+
+#: admin/emails/add.php:144
+msgid "Subject line: Used to capture the attention of the reader."
+msgstr ""
+
+#: admin/emails/add.php:150
+msgid "Pre-header text: Used to summarize the content of the email."
+msgstr ""
+
+#: admin/emails/email-editor.php:56
+msgid "Save & Preview"
+msgstr ""
+
+#: admin/emails/email-editor.php:59
+msgid "Update & Test"
+msgstr ""
+
+#: admin/emails/email-editor.php:61
+msgid "Mobile Preview"
+msgstr ""
+
+#: admin/emails/email-editor.php:63 admin/emails/email-editor.php:75
+#: admin/funnels/funnel-editor-v2.php:130
+#: admin/funnels/funnel-editor-v3.php:109
+#: admin/funnels/funnel-editor-v3.php:130
+#: admin/funnels/funnel-editor-v3.php:204 admin/funnels/funnel-editor.php:135
+#: admin/welcome/welcome-page.php:294 admin/welcome/welcome-page.php:331
+#: admin/welcome/welcome-page.php:370 admin/welcome/welcome-page.php:406
+#: includes/modal.php:39 includes/modal.php:65
+#: includes/steps/benchmarks/form-filled.php:203 includes/utils/html.php:473
+msgid "Close"
+msgstr ""
+
+#: admin/emails/email-editor.php:73
+msgid "Desktop Preview"
+msgstr ""
+
+#: admin/emails/email-editor.php:132
+msgid "Message Type"
+msgstr ""
+
+#: admin/emails/email-editor.php:138
+msgid "Marketing"
+msgstr ""
+
+#: admin/emails/email-editor.php:139
+msgid "Transactional"
+msgstr ""
+
+#: admin/emails/email-editor.php:183
+msgid "Admin Title"
+msgstr ""
+
+#: admin/emails/email-editor.php:191
+msgid "Subject Line: Used to capture the attention of the reader."
+msgstr ""
+
+#: admin/emails/email-editor.php:197
+msgid "Pre Header Text: Used to summarize the content of the email."
+msgstr ""
+
+#: admin/emails/email-editor.php:225
+msgid "Alt-Body"
+msgstr ""
+
+#: admin/emails/email-editor.php:230
+#, php-format
+msgid ""
+"Having a custom Alt-Body will improve the deliverability of your emails. %s "
+"automatically generates one for you but if you want full control over it you "
+"can define it below."
+msgstr ""
+
+#: admin/emails/emails-page.php:66 admin/emails/emails-page.php:128
+msgctxt "page_title"
+msgid "Emails"
+msgstr ""
+
+#: admin/emails/emails-page.php:88
+msgid "Send test email to..."
+msgstr ""
+
+#: admin/emails/emails-page.php:121
+msgctxt "page_title"
+msgid "Add Email"
+msgstr ""
+
+#: admin/emails/emails-page.php:124
+msgctxt "page_title"
+msgid "Edit Email"
+msgstr ""
+
+#: admin/emails/emails-page.php:156
+msgid "Broadcast"
+msgstr ""
+
+#: admin/emails/emails-page.php:161
+msgid "Reporting"
+msgstr ""
+
+#: admin/emails/emails-page.php:180
+msgid "Restored"
+msgstr ""
+
+#: admin/emails/emails-page.php:182 admin/emails/emails-page.php:206
+#: admin/emails/emails-page.php:247
+#: includes/reporting/new-reports/base-email-performance-table-report.php:22
+msgid "Emails"
+msgstr ""
+
+#: admin/emails/emails-page.php:204
+msgid "Deleted"
+msgstr ""
+
+#: admin/emails/emails-page.php:226
+#, php-format
+msgctxt "notice"
+msgid "Deleted %d email"
+msgid_plural "Deleted %d emails"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/emails/emails-page.php:245
+msgid "Trashed"
+msgstr ""
+
+#: admin/emails/emails-page.php:341
+msgid "Emails cannot be sent while in DRAFT mode."
+msgstr ""
+
+#: admin/emails/emails-page.php:349
+#, php-format
+msgid ""
+"You are sending this email from an email address (%s) which does not belong "
+"to this server. This may cause deliverability issues and harm your sender "
+"reputation."
+msgstr ""
+
+#: admin/emails/emails-page.php:368
+msgid "Email Updated."
+msgstr ""
+
+#: admin/emails/emails-page.php:413
+msgid "Sent test email to"
+msgstr ""
+
+#: admin/emails/emails-page.php:434
+msgid "Search Emails"
+msgstr ""
+
+#: admin/emails/emails-page.php:471
+msgctxt "notice"
+msgid "Sorry, no emails were found."
+msgstr ""
+
+#: admin/emails/emails-table.php:66 admin/funnels/funnels-table.php:75
+msgctxt "Column label"
+msgid "Title"
+msgstr ""
+
+#: admin/emails/emails-table.php:67
+msgctxt "Column label"
+msgid "Subject"
+msgstr ""
+
+#: admin/emails/emails-table.php:68
+msgctxt "Column label"
+msgid "From User"
+msgstr ""
+
+#: admin/emails/emails-table.php:69
+msgctxt "Column label"
+msgid "Author"
+msgstr ""
+
+#: admin/emails/emails-table.php:70 admin/funnels/funnels-table.php:77
+msgctxt "Column label"
+msgid "Last Updated"
+msgstr ""
+
+#: admin/emails/emails-table.php:104
+msgid "Empty Trash"
+msgstr ""
+
+#: admin/emails/emails-table.php:123
+msgid "Ready"
+msgstr ""
+
+#: admin/emails/emails-table.php:124 admin/emails/emails-table.php:194
+msgid "Draft"
+msgstr ""
+
+#: admin/emails/emails-table.php:125 admin/emails/emails-table.php:171
+msgid "Trash"
+msgstr ""
+
+#: admin/emails/emails-table.php:167
+msgid "Restore"
+msgstr ""
+
+#: admin/emails/emails-table.php:168
+msgid "Delete Permanently"
+msgstr ""
+
+#: admin/emails/emails-table.php:183 admin/funnels/funnels-table.php:171
+msgid "no title"
+msgstr ""
+
+#: admin/emails/emails-table.php:308 admin/funnels/funnels-table.php:283
+msgctxt "List table bulk action"
+msgid "Delete Permanently"
+msgstr ""
+
+#: admin/emails/emails-table.php:309 admin/funnels/funnels-table.php:284
+msgctxt "List table bulk action"
+msgid "Restore"
+msgstr ""
+
+#: admin/emails/emails-table.php:315
+msgctxt "List table bulk action"
+msgid "Trash"
+msgstr ""
+
+#: admin/events/events-page.php:52 admin/events/events-page.php:79
+msgctxt "page_title"
+msgid "Events"
+msgstr ""
+
+#: admin/events/events-page.php:107
+#, php-format
+msgctxt "notice"
+msgid "%d event cancelled"
+msgid_plural "%d events cancelled"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/events/events-page.php:152
+msgid "Purged failed events!"
+msgstr ""
+
+#: admin/events/events-page.php:174 admin/events/events-page.php:212
+#, php-format
+msgctxt "notice"
+msgid "%d event rescheduled"
+msgid_plural "%d events rescheduled"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/events/events-page.php:244
+#, php-format
+msgctxt "notice"
+msgid "%d event uncancelled"
+msgid_plural "%d events uncancelled"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/events/events-table.php:69
+msgctxt "Column label"
+msgid "Contact"
+msgstr ""
+
+#: admin/events/events-table.php:73
+msgctxt "Column label"
+msgid "Error Code"
+msgstr ""
+
+#: admin/events/events-table.php:74
+msgctxt "Column label"
+msgid "Error Message"
+msgstr ""
+
+#: admin/events/events-table.php:113
+msgctxt "status"
+msgid "contact deleted"
+msgstr ""
+
+#: admin/events/events-table.php:133
+msgctxt "status"
+msgid "funnel deleted"
+msgstr ""
+
+#: admin/events/events-table.php:150
+msgctxt "status"
+msgid "step deleted"
+msgstr ""
+
+#: admin/events/events-table.php:170
+msgctxt "status"
+msgid "Will run"
+msgstr ""
+
+#: admin/events/events-table.php:173
+msgctxt "status"
+msgid "Cancelled"
+msgstr ""
+
+#: admin/events/events-table.php:176
+msgctxt "status"
+msgid "Skipped"
+msgstr ""
+
+#: admin/events/events-table.php:179
+msgctxt "status"
+msgid "Processed"
+msgstr ""
+
+#: admin/events/events-table.php:182
+msgctxt "status"
+msgid "Failed"
+msgstr ""
+
+#: admin/events/events-table.php:250
+msgctxt "List table bulk action"
+msgid "Run Now"
+msgstr ""
+
+#: admin/events/events-table.php:256
+msgctxt "List table bulk action"
+msgid "Uncancel"
+msgstr ""
+
+#: admin/events/events-table.php:259
+msgctxt "List table bulk action"
+msgid "Run Again"
+msgstr ""
+
+#: admin/events/events-table.php:284
+msgctxt "view"
+msgid "Waiting"
+msgstr ""
+
+#: admin/events/events-table.php:285
+msgctxt "view"
+msgid "Completed"
+msgstr ""
+
+#: admin/events/events-table.php:286
+msgctxt "view"
+msgid "Skipped"
+msgstr ""
+
+#: admin/events/events-table.php:288
+msgctxt "view"
+msgid "Failed"
+msgstr ""
+
+#: admin/events/events-table.php:314
+msgid "Run now"
+msgstr ""
+
+#: admin/events/events-table.php:322
+msgid "Uncancel"
+msgstr ""
+
+#: admin/events/events-table.php:329
+msgid "Run Again"
+msgstr ""
+
+#: admin/events/events-table.php:337 admin/events/events-table.php:338
+msgctxt "action"
+msgid "View Contact"
+msgstr ""
+
+#: admin/events/events-table.php:373
+msgctxt "action"
+msgid "Cleanup"
+msgstr ""
+
+#: admin/events/events-table.php:376
+msgctxt "action"
+msgid "Purge failed events"
+msgstr ""
+
+#: admin/funnels/add-funnel.php:36
+msgctxt "add_funnel_tab"
+msgid "Funnel Templates"
+msgstr ""
+
+#: admin/funnels/add-funnel.php:38
+msgctxt "add_funnel_tab"
+msgid "Import Funnel"
+msgstr ""
+
+#: admin/funnels/add-funnel.php:57
+msgctxt "action"
+msgid "Start Building"
+msgstr ""
+
+#: admin/funnels/add-funnel.php:77
+msgid "Search for templates from our marketplace."
+msgstr ""
+
+#: admin/funnels/add-funnel.php:79
+msgid ""
+"Want to share your funnel with the world? <a target=\"_blank\" href="
+"\"https://www.groundhogg.io/updates/sell-your-templates-on-groundhogg-io/"
+"\">Get Started Now!</a>"
+msgstr ""
+
+#: admin/funnels/add-funnel.php:82
+msgid "Type in a search term like Webinar..."
+msgstr ""
+
+#: admin/funnels/add-funnel.php:141
+msgid ""
+"If you have a funnel import file (ends in .funnel) you can upload it here!"
+msgstr ""
+
+#: admin/funnels/add-funnel.php:144
+msgid "Upload a .funnel export file."
+msgstr ""
+
+#: admin/funnels/add-funnel.php:148 admin/funnels/add-funnel.php:158
+msgctxt "action"
+msgid "Import Funnel"
+msgstr ""
+
+#: admin/funnels/add-funnel.php:153
+msgid ""
+"Copy and paste JSON from a .funnel export file if you are having issue "
+"uploading."
+msgstr ""
+
+#: admin/funnels/add-funnel.php:156
+msgid "Paste JSON from .funnel file."
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:45 admin/funnels/funnel-editor-v3.php:53
+#: admin/funnels/funnel-editor.php:59
+msgid "Enter Funnel Name Here"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:97 admin/funnels/funnel-editor.php:104
+msgctxt "action"
+msgid "Refresh"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:111 admin/funnels/funnel-editor.php:117
+msgid "Distraction Free Mode"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:116
+#: admin/funnels/funnel-editor-v3.php:114
+#: admin/funnels/funnel-editor-v3.php:115 admin/funnels/funnel-editor.php:121
+#: includes/replacements.php:443
+msgid "Replacements"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:118
+#: admin/funnels/funnel-editor-v3.php:116 admin/funnels/funnel-editor.php:123
+#: includes/replacements.php:445
+msgid "Insert"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:128
+#: admin/funnels/funnel-editor-v3.php:128
+#: admin/funnels/funnel-editor-v3.php:129 admin/funnels/funnel-editor.php:133
+msgid "Add Contacts"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:141
+#: admin/funnels/funnel-editor-v3.php:141 admin/funnels/funnel-editor.php:145
+msgid "Copy share link"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:146
+#: admin/funnels/funnel-editor-v3.php:145
+#: admin/funnels/funnel-editor-v3.php:146 admin/funnels/funnel-editor.php:147
+#: admin/tools/exports-table.php:250 admin/tools/tools-page.php:167
+msgid "Export"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:177
+#: admin/funnels/funnel-editor-v2.php:178
+#: admin/funnels/funnel-editor-v3.php:170
+#: admin/funnels/funnel-editor-v3.php:171 admin/funnels/funnels-page.php:180
+#: includes/steps/funnel-step.php:690
+msgid "Add Step"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:231
+msgid "Funnel Builder V2 (BETA)"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:232
+msgid "Welcome to version 2 of the Funnel Builder!"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:233
+msgid ""
+"Our newest iteration of the funnel builder has been designed to provide a "
+"superior editing experience on both large and small screens."
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:269
+#: admin/funnels/funnel-editor-v3.php:250 admin/funnels/funnel-editor.php:173
+msgid "Benchmarks"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:276 admin/funnels/funnel-editor.php:193
+msgid "Benchmarks start and stop automation steps for a contact."
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:310 admin/funnels/funnel-editor.php:223
+msgid "Actions are launched whenever a contact completes a benchmark."
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:382
+#: admin/funnels/funnel-editor-v3.php:364 admin/funnels/funnel-editor.php:258
+msgid "Select contacts to add into funnel:"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:412
+#: admin/funnels/funnel-editor-v3.php:394 admin/funnels/funnel-editor.php:275
+msgid "Exclude these contacts:"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:442
+#: admin/funnels/funnel-editor-v3.php:424 admin/funnels/funnel-editor.php:292
+msgid "Select where to start:"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:468
+#: admin/funnels/funnel-editor-v3.php:452 admin/funnels/funnel-editor.php:318
+msgid "Add Contacts to Funnel"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v2.php:474
+msgid "&larr; Back to Admin"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v3.php:50
+#, php-format
+msgid "Now editing %s"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v3.php:102
+#: admin/funnels/funnel-editor-v3.php:103
+msgid "Settings"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v3.php:142
+msgid "Share"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v3.php:151
+#: admin/funnels/funnel-editor-v3.php:153
+msgid "Reports"
+msgstr ""
+
+#: admin/funnels/funnel-editor-v3.php:200
+msgid "Funnel Builder Tour"
+msgstr ""
+
+#: admin/funnels/funnel-editor.php:39
+msgid "The new and improved Funnel Builder has Arrived!"
+msgstr ""
+
+#: admin/funnels/funnel-editor.php:39
+msgid "Launch V2 Now!"
+msgstr ""
+
+#: admin/funnels/funnel-settings.php:20
+msgid "Conversion Benchmark"
+msgstr ""
+
+#: admin/funnels/funnel-settings.php:45
+msgid ""
+"This is used to calculate the conversion rate of a funnel in a report. By "
+"default it is assumed the last step should be used."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:77
+msgctxt "page_title"
+msgid "Add Funnel"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:80
+msgctxt "page_title"
+msgid "Edit Funnel"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:83
+msgctxt "page_title"
+msgid "Funnel Settings"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:87 admin/funnels/funnels-page.php:136
+msgctxt "page_title"
+msgid "Funnels"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:124
+msgid "You have no active funnels."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:126
+msgid "Activate a funnel!"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:178
+msgid "Saving..."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:217
+msgid ""
+"Here you can edit your funnels. A funnel is a set of steps which can run "
+"automation based on contact interactions with your site. You can view the "
+"number of active contacts in each funnel, as well as when it was created and "
+"last updated."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:218
+msgid ""
+"Funnels can be either Active/Inactive/Archived. If a funnel is Inactive, no "
+"contacts can enter and any contacts that may have been in the funnel will "
+"stop moving forward. The same goes for Archived funnels which simply do not "
+"show in the main list."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:225
+msgid "Add A Funnel"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:226
+msgid ""
+"To create a new funnel, simply click the Add New Button in the top left and "
+"select a pre-built funnel template. If you have a funnel import file you can "
+"click the import tab and upload the funnel file which will auto generate a "
+"funnel for you."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:234
+msgid ""
+"When editing a funnel you can add Funnel Steps. Funnel Steps are either "
+"Benchmarks or Actions. Benchmarks are whenever a Contact \"does\" something, "
+"while Actions are doing thing to a contact such as sending an email. Simply "
+"drag in the desired funnel steps in any order."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:235
+msgid ""
+"Actions are run sequentially, so when an action takes place, it simply loads "
+"the next action. That means if you need to change it you can!"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:236
+msgid ""
+"Benchmarks are a bit different. If you have several benchmarks in a row, "
+"what happens is once one of them is completed by a contact the first action "
+"found proceeding that benchmark is launched, skipping all other benchmarks. "
+"That way you can have multiple automation triggers. "
+msgstr ""
+
+#: admin/funnels/funnels-page.php:237
+msgid ""
+"Once a benchmark is complete all steps that are scheduled before that "
+"benchmark will stop immediately."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:395
+#, php-format
+msgctxt "notice"
+msgid "Deleted %d funnel"
+msgid_plural "Deleted %d funnels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/funnels/funnels-page.php:414
+#, php-format
+msgctxt "notice"
+msgid "Restored %d funnel"
+msgid_plural "Deleted %d funnels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/funnels/funnels-page.php:441
+msgctxt "notice"
+msgid "Funnel duplicated"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:475
+#, php-format
+msgctxt "notice"
+msgid "Archived %d funnel"
+msgid_plural "Archived %d funnels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/funnels/funnels-page.php:558
+msgid "Could not create funnel."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:561
+msgctxt "notice"
+msgid "Funnel created"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:764
+msgid "You cannot do this while the funnel is not active."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:770
+msgctxt "notice"
+msgid ""
+"Your [max_input_vars] is too small for your funnel! You may experience odd "
+"behaviour and your funnel may not save correctly. Please <a target=\"_blank"
+"\" href=\"http://www.google.com/search?q=increase+max_input_vars+php"
+"\">increase your [max_input_vars] to at least double the current size.</a>."
+msgstr ""
+
+#: admin/funnels/funnels-page.php:811
+msgctxt "warning"
+msgid "Funnels must start with 1 or more benchmarks"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:814
+msgctxt "notice"
+msgid "Funnel updated"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:908
+#, php-format
+msgid "%s - (copy)"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:998
+#, php-format
+msgctxt "notice"
+msgid "%d contact added to funnel"
+msgid_plural "%d contacts added to funnel"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/funnels/funnels-page.php:1041
+msgid "Search Funnels"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:1076
+msgid "Settings saved!"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:1155 includes/license-manager.php:583
+#, php-format
+msgctxt "action"
+msgid "Buy Now ($%s - $%s)"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:1164 includes/license-manager.php:592
+#, php-format
+msgctxt "action"
+msgid "Buy Now ($%s)"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:1169 includes/license-manager.php:597
+msgctxt "action"
+msgid "Download"
+msgstr ""
+
+#: admin/funnels/funnels-page.php:1180
+msgctxt "notice"
+msgid "Sorry, no templates were found."
+msgstr ""
+
+#: admin/funnels/funnels-table.php:76
+msgctxt "Column label"
+msgid "Active Contacts"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:118
+msgctxt "view"
+msgid "Active"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:119
+msgctxt "view"
+msgid "Inactive"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:120
+msgctxt "view"
+msgid "Archived"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:151
+msgctxt "action"
+msgid "Restore"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:152
+msgctxt "action"
+msgid "Delete Permanently"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:156
+msgid "Build"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:162
+msgctxt "action"
+msgid "Duplicate"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:163
+msgctxt "action"
+msgid "Export"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:164
+msgid "Archive"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:189
+msgctxt "status"
+msgid "Inactive"
+msgstr ""
+
+#: admin/funnels/funnels-table.php:289
+msgctxt "List table bulk action"
+msgid "Archive"
+msgstr ""
+
+#: admin/guided-setup/guided-setup.php:95
+msgid "Guided Setup"
+msgstr ""
+
+#: admin/guided-setup/guided-setup.php:122
+msgid "Look away!"
+msgstr ""
+
+#: admin/guided-setup/guided-setup.php:181
+msgid "Working..."
+msgstr ""
+
+#: admin/guided-setup/steps/business-info.php:13
+msgctxt "guided_setup"
+msgid "Business Information"
+msgstr ""
+
+#: admin/guided-setup/steps/business-info.php:23
+msgctxt "guided_setup"
+msgid ""
+"Your business information is needed so your list knows who is sending them "
+"emails. All this information will appear in your email footer to keep you "
+"compliant."
+msgstr ""
+
+#: admin/guided-setup/steps/business-info.php:32
+msgid "Business Name"
+msgstr ""
+
+#: admin/guided-setup/steps/business-info.php:40
+#: includes/form/fields/address.php:62 includes/functions.php:1617
+msgid "Street Address 1"
+msgstr ""
+
+#: admin/guided-setup/steps/business-info.php:44
+#: includes/form/fields/address.php:70 includes/functions.php:1618
+msgid "Street Address 2"
+msgstr ""
+
+#: admin/guided-setup/steps/business-info.php:48
+#: admin/settings/settings-page.php:432 includes/form/fields/address.php:78
+#: includes/functions.php:1619
+msgid "City"
+msgstr ""
+
+#: admin/guided-setup/steps/business-info.php:52
+msgid "Postal/Zip code"
+msgstr ""
+
+#: admin/guided-setup/steps/business-info.php:56
+msgid "State/Province/Region"
+msgstr ""
+
+#: admin/guided-setup/steps/community.php:20
+msgctxt "guided_setup"
+msgid "Community"
+msgstr ""
+
+#: admin/guided-setup/steps/community.php:30
+msgctxt "guided_setup"
+msgid ""
+"Join our online community and be a part of our global movement to "
+"democratize digital marketing & sales."
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:21
+msgctxt "guided_setup"
+msgid "Compliance Information"
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:31
+msgctxt "guided_setup"
+msgid ""
+"These features help you stay within the letter of the law and make it easy "
+"for your subscribers to access critical information about your policies."
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:40
+msgctxt "setting_label"
+msgid "Privacy Policy"
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:46
+msgctxt "guided_setup"
+msgid ""
+"This will be linked in the footer of your emails. It is important to let "
+"subscribers know how you plan to use their information."
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:50
+msgctxt "setting_label"
+msgid "Terms & Conditions"
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:56
+msgctxt "guided_setup"
+msgid ""
+"Terms & conditions tell users about what they can expect from using your "
+"site."
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:61
+msgctxt "setting_label"
+msgid "I send email to subscribers in..."
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:65
+msgctxt "guided_setup"
+msgid "Europe"
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:72
+msgctxt "guided_setup"
+msgid "Canada"
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:79
+msgctxt "guided_setup"
+msgid "Other"
+msgstr ""
+
+#: admin/guided-setup/steps/compliance.php:83
+msgctxt "guided_setup"
+msgid ""
+"If you send email in these areas special settings will be enabled to keep "
+"your business within the law."
+msgstr ""
+
+#: admin/guided-setup/steps/email.php:24
+msgctxt "guided_setup"
+msgid "Sending Email"
+msgstr ""
+
+#: admin/guided-setup/steps/email.php:39
+msgctxt "guided_setup"
+msgid ""
+"There are different ways to send email with Groundhogg! We recommend using a "
+"trusted sending service like MailHawk, SendGrid or AWS. Luckily, we provide "
+"integrations for all of them!"
+msgstr ""
+
+#: admin/guided-setup/steps/email.php:53
+msgid ""
+"<a href=\"https://mailhawk.com/\" target=\"_blank\">MailHawk</a> makes "
+"WordPress email delivery as simple as a few clicks, starting at <b>$14.97/"
+"month</b>."
+msgstr ""
+
+#: admin/guided-setup/steps/email.php:64 admin/guided-setup/steps/email.php:107
+msgid "Integrate this service!"
+msgstr ""
+
+#: admin/guided-setup/steps/email.php:72 admin/guided-setup/steps/email.php:115
+msgid "More details"
+msgstr ""
+
+#: admin/guided-setup/steps/extensions.php:24
+msgctxt "guided_setup"
+msgid "Premium Extensions"
+msgstr ""
+
+#: admin/guided-setup/steps/extensions.php:34
+msgctxt "guided_setup"
+msgid ""
+"Integrate popular tools and add functionality with our premium extensions!"
+msgstr ""
+
+#: admin/guided-setup/steps/extensions.php:69
+msgid "See All Premium Extensions!"
+msgstr ""
+
+#: admin/guided-setup/steps/finished.php:13
+msgctxt "guided_setup"
+msgid "All Done!"
+msgstr ""
+
+#: admin/guided-setup/steps/finished.php:23
+msgctxt "guided_setup"
+msgid ""
+"Congratulations! Groundhogg has been successfully setup. Here are your next "
+"steps..."
+msgstr ""
+
+#: admin/guided-setup/steps/finished.php:70
+msgid "Finish"
+msgstr ""
+
+#: admin/guided-setup/steps/import-contacts.php:18
+msgctxt "guided_setup"
+msgid "Import Contacts"
+msgstr ""
+
+#: admin/guided-setup/steps/import-contacts.php:28
+msgctxt "guided_setup"
+msgid ""
+"Import your contacts so you can start sending emails and marketing your "
+"business."
+msgstr ""
+
+#: admin/guided-setup/steps/import-contacts.php:35
+msgid "Click Here To Import Your List!"
+msgstr ""
+
+#: admin/guided-setup/steps/partners.php:23
+msgctxt "guided_setup"
+msgid "Need Help?"
+msgstr ""
+
+#: admin/guided-setup/steps/partners.php:33
+msgctxt "guided_setup"
+msgid ""
+"Think you might want some implementation help? Find yourself a certified "
+"partner to help implement your marketing strategy."
+msgstr ""
+
+#: admin/guided-setup/steps/partners.php:50
+msgid "Find a Partner Near Me!"
+msgstr ""
+
+#: admin/guided-setup/steps/premium.php:19
+msgctxt "guided_setup"
+msgid "Go Premium"
+msgstr ""
+
+#: admin/guided-setup/steps/premium.php:29
+msgctxt "guided_setup"
+msgid ""
+"Unlock functionality, powerups and integrations by upgrading to premium!"
+msgstr ""
+
+#: admin/guided-setup/steps/premium.php:62
+msgid "Unlock powerful tools and integrations when you go premium!"
+msgstr ""
+
+#: admin/guided-setup/steps/premium.php:63
+msgid ""
+"Get access to over 30 premium extensions and integrations including "
+"WooCommerce, Zapier, Amazon Web Services, LifterLMS, Scheduling and more "
+"which will help you build the prefect customer journey."
+msgstr ""
+
+#: admin/guided-setup/steps/premium.php:65 admin/help/help-page.php:283
+msgid "Yes, I Want To Upgrade!"
+msgstr ""
+
+#: admin/guided-setup/steps/premium.php:67
+msgid ""
+"If you requested a discount code from the previous step it will "
+"automatically be applied at checkout."
+msgstr ""
+
+#: admin/guided-setup/steps/start.php:22
+msgctxt "guided_setup"
+msgid "Get Started!"
+msgstr ""
+
+#: admin/guided-setup/steps/start.php:50
+msgid "Start Guided Setup"
+msgstr ""
+
+#: admin/guided-setup/steps/start.php:74
+msgctxt "guided_setup"
+msgid "Guided Setup"
+msgstr ""
+
+#: admin/guided-setup/steps/start.php:82
+msgid "Welcome to Groundhogg!"
+msgstr ""
+
+#: admin/guided-setup/steps/start.php:84
+msgctxt "guided_setup"
+msgid ""
+"Please take 5 minutes to complete a few steps so we can properly configure "
+"Groundhogg for you."
+msgstr ""
+
+#: admin/guided-setup/steps/step.php:74
+msgctxt "guided_setup"
+msgid "Configuration saved!"
+msgstr ""
+
+#: admin/guided-setup/steps/step.php:91 includes/pointers.php:49
+msgid "Next"
+msgstr ""
+
+#: admin/guided-setup/steps/step.php:155
+msgid "&larr; Back"
+msgstr ""
+
+#: admin/guided-setup/steps/step.php:156
+msgid "Skip this step &rarr;"
+msgstr ""
+
+#: admin/guided-setup/steps/sync-users.php:19
+msgctxt "guided_setup"
+msgid "Sync Users & Contacts"
+msgstr ""
+
+#: admin/guided-setup/steps/sync-users.php:29
+msgctxt "guided_setup"
+msgid "Sync your existing users with your contact lists."
+msgstr ""
+
+#: admin/guided-setup/steps/sync-users.php:36
+msgid "Click Here Sync!"
+msgstr ""
+
+#: admin/guided-setup/steps/tracking.php:21
+msgctxt "guided_setup"
+msgid "Enable Statistics"
+msgstr ""
+
+#: admin/guided-setup/steps/tracking.php:31
+msgctxt "guided_setup"
+msgid "Help us make Groundhogg better! Enable anonymous statistics collection."
+msgstr ""
+
+#: admin/guided-setup/steps/tracking.php:64
+#, php-format
+msgid "Want 15% off any premium plan?"
+msgstr ""
+
+#: admin/guided-setup/steps/tracking.php:65
+#, php-format
+msgid ""
+"When you enable anonymous statistics collection, you help us make Groundhogg "
+"better. As a thank you we'll send you a 15%% discount code which you can use "
+"for any <a href='%s' target='_blank'>Groundhogg premium plan.</a>"
+msgstr ""
+
+#: admin/guided-setup/steps/tracking.php:66
+msgid "Yes! I Want <b>15% Off!</b>"
+msgstr ""
+
+#: admin/guided-setup/steps/tracking.php:67
+#, php-format
+msgid ""
+"A discount code will be emailed to <b>%s</b> upon completion. By opting in "
+"you consent to receive marketing, transactional information and updates from "
+"Groundhogg Inc. For more information, please see our <a target=\"_blank\" "
+"href=\"https://www.groundhogg.io/privacy-policy/#usage-tracking\">privacy "
+"policy</a>."
+msgstr ""
+
+#: admin/help/help-page.php:67
+msgid "Help"
+msgstr ""
+
+#: admin/help/help-page.php:123
+msgid "Basic Help"
+msgstr ""
+
+#: admin/help/help-page.php:127
+msgid "Support Ticket"
+msgstr ""
+
+#: admin/help/help-page.php:151
+msgid "New to Groundhogg?"
+msgstr ""
+
+#: admin/help/help-page.php:152
+msgid ""
+"If you are new to Groundhogg, try browsing our getting started articles to "
+"learn what you need to know!"
+msgstr ""
+
+#: admin/help/help-page.php:159
+msgid "I need help getting started!"
+msgstr ""
+
+#: admin/help/help-page.php:166
+msgid "Building something?"
+msgstr ""
+
+#: admin/help/help-page.php:167
+msgid ""
+"Are you building something custom with Groundhogg? Take a look at our "
+"developer oriented articles."
+msgstr ""
+
+#: admin/help/help-page.php:174
+msgid "I need help with development!"
+msgstr ""
+
+#: admin/help/help-page.php:180
+msgid "Have a question?"
+msgstr ""
+
+#: admin/help/help-page.php:181
+msgid ""
+"Someone else may have already asked your question. Check out our FAQs to see "
+"if there is an answer for you."
+msgstr ""
+
+#: admin/help/help-page.php:188
+msgid "I have a question!"
+msgstr ""
+
+#: admin/help/help-page.php:193
+msgid "Installing an extension?"
+msgstr ""
+
+#: admin/help/help-page.php:194
+msgid ""
+"We have detailed setup guides for all of our premium extensions. Find the "
+"one you need!"
+msgstr ""
+
+#: admin/help/help-page.php:201
+msgid "I need help with an extension!"
+msgstr ""
+
+#: admin/help/help-page.php:206
+msgid "Didn't find what you need?"
+msgstr ""
+
+#: admin/help/help-page.php:207
+msgid ""
+"If you didn't find what you were looking for then you can join our support "
+"group and ask the community!"
+msgstr ""
+
+#: admin/help/help-page.php:214
+msgid "Join the community!"
+msgstr ""
+
+#: admin/help/help-page.php:219
+msgid "Need technical help?"
+msgstr ""
+
+#: admin/help/help-page.php:220
+msgid ""
+"If you require technical assistance then the best option is to open a "
+"support ticket with our advanced support team."
+msgstr ""
+
+#: admin/help/help-page.php:226
+msgid "Open a ticket!"
+msgstr ""
+
+#: admin/help/help-page.php:286
+msgid "Post to Facebook."
+msgstr ""
+
+#: admin/pro/pro-page.php:66
+msgid "Go Pro"
+msgstr ""
+
+#: admin/reports/reports-page.php:255 admin/reports/views/email-step.php:64
+msgid "Funnels"
+msgstr ""
+
+#: admin/reports/reports-page.php:259
+msgid "Broadcasts"
+msgstr ""
+
+#: admin/reports/reports-page.php:263 admin/reports/views/forms.php:9
+#: admin/reports/views/funnels.php:123 blocks/beaver-builder/form-widget.php:15
+msgid "Forms"
+msgstr ""
+
+#: admin/reports/views/broadcasts.php:42 admin/reports/views/broadcasts.php:53
+msgid "Broadcast Stats"
+msgstr ""
+
+#: admin/reports/views/broadcasts.php:60
+msgid "Broadcast Link Clicked"
+msgstr ""
+
+#: admin/reports/views/contacts.php:31 admin/reports/views/overview.php:27
+msgid "Confirmed Contacts"
+msgstr ""
+
+#: admin/reports/views/contacts.php:36 admin/reports/views/overview.php:32
+msgid "Engaged Contacts"
+msgstr ""
+
+#: admin/reports/views/contacts.php:41 admin/reports/views/email.php:39
+msgid "Unsubscribes"
+msgstr ""
+
+#: admin/reports/views/contacts.php:48 admin/reports/views/overview.php:68
+msgid "Opt-in Status"
+msgstr ""
+
+#: admin/reports/views/contacts.php:60 admin/reports/views/overview.php:80
+msgid "Lead Score"
+msgstr ""
+
+#: admin/reports/views/contacts.php:65 admin/reports/views/overview.php:85
+msgid "Please Enable Lead Scoring Plugin to view this data."
+msgstr ""
+
+#: admin/reports/views/contacts.php:77
+#: includes/reporting/reports/contacts-by-country.php:27
+msgid "Contacts By Country"
+msgstr ""
+
+#: admin/reports/views/contacts.php:91
+#: includes/reporting/reports/contacts-by-region.php:40
+msgid "Contacts By Region"
+msgstr ""
+
+#: admin/reports/views/contacts.php:123
+msgid "Top Search Engines"
+msgstr ""
+
+#: admin/reports/views/contacts.php:127
+msgid "Top Social Networks"
+msgstr ""
+
+#: admin/reports/views/contacts.php:133
+msgid "Top Source Pages"
+msgstr ""
+
+#: admin/reports/views/contacts.php:137 admin/reports/views/overview.php:112
+msgid "Top lead Sources"
+msgstr ""
+
+#: admin/reports/views/email-step.php:19 admin/reports/views/email-step.php:30
+msgid "Email Stats"
+msgstr ""
+
+#: admin/reports/views/email-step.php:45 admin/reports/views/email.php:24
+#: admin/reports/views/overview.php:53
+#: includes/reporting/new-reports/base-email-performance-table-report.php:24
+#: includes/reporting/new-reports/table-email-funnels-used-in.php:26
+msgid "Open Rate"
+msgstr ""
+
+#: admin/reports/views/email-step.php:51 admin/reports/views/email.php:30
+#: admin/reports/views/overview.php:59
+#: includes/reporting/new-reports/base-email-performance-table-report.php:25
+#: includes/reporting/new-reports/table-broadcast-stats.php:123
+#: includes/reporting/new-reports/table-email-funnels-used-in.php:27
+#: includes/reporting/new-reports/table-email-stats.php:97
+msgid "Click Thru Rate"
+msgstr ""
+
+#: admin/reports/views/email-step.php:58
+msgid "Links Clicked"
+msgstr ""
+
+#: admin/reports/views/email.php:18 admin/reports/views/overview.php:47
+#: includes/reporting/reports/emails-sent.php:39
+msgid "Emails Sent"
+msgstr ""
+
+#: admin/reports/views/email.php:51
+msgid "Bounces"
+msgstr ""
+
+#: admin/reports/views/email.php:57
+msgid "Complaints"
+msgstr ""
+
+#: admin/reports/views/email.php:65
+#: includes/reporting/reports/last-broadcast.php:38
+msgid "Last Broadcast"
+msgstr ""
+
+#: admin/reports/views/email.php:78
+msgid "Top Performing Broadcasts"
+msgstr ""
+
+#: admin/reports/views/email.php:85 admin/reports/views/overview.php:101
+msgid "Top Performing Funnel Emails"
+msgstr ""
+
+#: admin/reports/views/email.php:89
+msgid "Funnel Emails Needing Improvement"
+msgstr ""
+
+#: admin/reports/views/funnels.php:62
+msgid "View Funnel"
+msgstr ""
+
+#: admin/reports/views/funnels.php:80
+msgid "Active Contacts"
+msgstr ""
+
+#: admin/reports/views/funnels.php:86
+#: includes/reporting/new-reports/table-benchmark-conversion-rate.php:25
+#: includes/reporting/new-reports/table-form-activity.php:28
+#: includes/reporting/new-reports/table-top-converting-funnels.php:24
+#: includes/steps/benchmarks/form-filled.php:877
+msgid "Conversion Rate"
+msgstr ""
+
+#: admin/reports/views/funnels.php:97
+msgid "Abandonment Rate"
+msgstr ""
+
+#: admin/reports/views/funnels.php:106
+msgid "Top Performing Emails in Funnel"
+msgstr ""
+
+#: admin/reports/views/funnels.php:110
+msgid "Emails Needing Improvement"
+msgstr ""
+
+#: admin/reports/views/funnels.php:117
+msgid "Benchmark Conversion Rate"
+msgstr ""
+
+#: admin/reports/views/funnels.php:129
+#: includes/steps/actions/send-email.php:354
+#: includes/steps/benchmarks/form-filled.php:951
+msgid "Activity"
+msgstr ""
+
+#: admin/reports/views/overview.php:37
+msgid "Unsubscribed Contacts"
+msgstr ""
+
+#: admin/reports/views/overview.php:97
+msgid "Top Converting Funnels"
+msgstr ""
+
+#: admin/reports/views/overview.php:108
+msgid "Top Countries"
+msgstr ""
+
+#: admin/settings/api-keys-table.php:60
+msgid "API Key"
+msgstr ""
+
+#: admin/settings/api-keys-table.php:61
+msgid "API Keys"
+msgstr ""
+
+#: admin/settings/api-keys-table.php:152
+msgctxt "action"
+msgid "Reissue"
+msgstr ""
+
+#: admin/settings/api-keys-table.php:160
+msgctxt "action"
+msgid "Revoke"
+msgstr ""
+
+#: admin/settings/api-keys-table.php:176
+msgctxt "column_title"
+msgid "Username"
+msgstr ""
+
+#: admin/settings/api-keys-table.php:177
+msgctxt "column_title"
+msgid "Public Key"
+msgstr ""
+
+#: admin/settings/api-keys-table.php:178
+msgctxt "column_title"
+msgid "Token"
+msgstr ""
+
+#: admin/settings/api-keys-table.php:179
+msgctxt "column_title"
+msgid "Secret Key"
+msgstr ""
+
+#: admin/settings/api-keys-table.php:205
+msgid "Please Select a User"
+msgstr ""
+
+#: admin/settings/api-keys-table.php:206
+msgctxt "action"
+msgid "Generate New API Keys"
+msgstr ""
+
+#: admin/settings/settings-page.php:68
+msgctxt "page_title"
+msgid "Settings"
+msgstr ""
+
+#: admin/settings/settings-page.php:72
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: admin/settings/settings-page.php:153
+msgid ""
+"Enter your extension license keys here to receive updates for purchased "
+"extensions. If your license key has expired, <a href=\"https://groundhogg.io/"
+"account/\">please renew your license.</a>"
+msgstr ""
+
+#: admin/settings/settings-page.php:190
+msgid "You have no extensions installed. Want some?"
+msgstr ""
+
+#: admin/settings/settings-page.php:191
+msgid "Get your first extension!"
+msgstr ""
+
+#: admin/settings/settings-page.php:263
+msgctxt "settings_tabs"
+msgid "General"
+msgstr ""
+
+#: admin/settings/settings-page.php:267
+msgctxt "settings_tabs"
+msgid "Compliance"
+msgstr ""
+
+#: admin/settings/settings-page.php:271
+msgctxt "settings_tabs"
+msgid "Email"
+msgstr ""
+
+#: admin/settings/settings-page.php:275
+msgctxt "settings_tabs"
+msgid "Tags"
+msgstr ""
+
+#: admin/settings/settings-page.php:279
+msgctxt "settings_tabs"
+msgid "API"
+msgstr ""
+
+#: admin/settings/settings-page.php:283
+msgctxt "settings_tabs"
+msgid "Misc"
+msgstr ""
+
+#: admin/settings/settings-page.php:290
+msgctxt "settings_tabs"
+msgid "Licenses"
+msgstr ""
+
+#: admin/settings/settings-page.php:307
+msgctxt "settings_sections"
+msgid "Business Settings"
+msgstr ""
+
+#: admin/settings/settings-page.php:312
+msgctxt "settings_sections"
+msgid "Other"
+msgstr ""
+
+#: admin/settings/settings-page.php:317
+msgctxt "settings_sections"
+msgid "Misc Settings"
+msgstr ""
+
+#: admin/settings/settings-page.php:322
+msgctxt "settings_sections"
+msgid "WP Cron"
+msgstr ""
+
+#: admin/settings/settings-page.php:327
+msgctxt "settings_sections"
+msgid "Affiliate Section"
+msgstr ""
+
+#: admin/settings/settings-page.php:332
+msgctxt "settings_sections"
+msgid "Captcha"
+msgstr ""
+
+#: admin/settings/settings-page.php:337
+msgctxt "settings_sections"
+msgid "Event Notices"
+msgstr ""
+
+#: admin/settings/settings-page.php:342
+msgctxt "settings_sections"
+msgid "Compliance"
+msgstr ""
+
+#: admin/settings/settings-page.php:353
+msgctxt "settings_sections"
+msgid "MailHawk"
+msgstr ""
+
+#: admin/settings/settings-page.php:359
+msgctxt "settings_sections"
+msgid "Overrides"
+msgstr ""
+
+#: admin/settings/settings-page.php:364
+msgctxt "settings_sections"
+msgid "Email Bounces"
+msgstr ""
+
+#: admin/settings/settings-page.php:370
+msgctxt "settings_sections"
+msgid "API Settings"
+msgstr ""
+
+#: admin/settings/settings-page.php:375
+msgctxt "settings_sections"
+msgid "Optin Status Tags"
+msgstr ""
+
+#: admin/settings/settings-page.php:396
+msgctxt "settings"
+msgid "Business Name"
+msgstr ""
+
+#: admin/settings/settings-page.php:397
+msgctxt "settings"
+msgid "Your business name as it appears in the email footer."
+msgstr ""
+
+#: admin/settings/settings-page.php:408
+msgctxt "settings"
+msgid "Street Address 1"
+msgstr ""
+
+#: admin/settings/settings-page.php:409 admin/settings/settings-page.php:433
+#: admin/settings/settings-page.php:445 admin/settings/settings-page.php:457
+#: admin/settings/settings-page.php:469 admin/settings/settings-page.php:481
+msgctxt "settings"
+msgid "As it should appear in your email footer."
+msgstr ""
+
+#: admin/settings/settings-page.php:420
+msgctxt "settings"
+msgid "Street Address 2"
+msgstr ""
+
+#: admin/settings/settings-page.php:421
+msgctxt "settings"
+msgid "(Optional) As it should appear in your email footer."
+msgstr ""
+
+#: admin/settings/settings-page.php:426
+msgid "Unit 42"
+msgstr ""
+
+#: admin/settings/settings-page.php:438
+msgid "Toronto"
+msgstr ""
+
+#: admin/settings/settings-page.php:444
+msgctxt "settings"
+msgid "Postal/Zip Code"
+msgstr ""
+
+#: admin/settings/settings-page.php:456
+msgctxt "settings"
+msgid "State/Province/Region"
+msgstr ""
+
+#: admin/settings/settings-page.php:493
+msgid "Primary User"
+msgstr ""
+
+#: admin/settings/settings-page.php:494
+msgctxt "settings"
+msgid "The primary user to reference for contact information."
+msgstr ""
+
+#: admin/settings/settings-page.php:504
+#, php-format
+msgctxt "settings"
+msgid "Delete %s data"
+msgstr ""
+
+#: admin/settings/settings-page.php:505
+msgctxt "settings"
+msgid "Delete all information when uninstalling. This cannot be undone."
+msgstr ""
+
+#: admin/settings/settings-page.php:508 admin/settings/settings-page.php:522
+#: admin/settings/settings-page.php:550 admin/settings/settings-page.php:564
+#: admin/settings/settings-page.php:590 admin/settings/settings-page.php:603
+#: admin/settings/settings-page.php:629 admin/settings/settings-page.php:690
+#: admin/settings/settings-page.php:717 admin/settings/settings-page.php:731
+#: includes/steps/actions/send-email.php:155
+#: includes/steps/benchmarks/form-filled.php:226
+msgid "Enable"
+msgstr ""
+
+#: admin/settings/settings-page.php:518
+msgctxt "settings"
+msgid "Optin to anonymous usage tracking."
+msgstr ""
+
+#: admin/settings/settings-page.php:519
+#, php-format
+msgctxt "settings"
+msgid ""
+"Help us make %s better by providing anonymous usage information about your "
+"site."
+msgstr ""
+
+#: admin/settings/settings-page.php:532
+msgctxt "settings"
+msgid "Allow unrestricted access to contact file uploads."
+msgstr ""
+
+#: admin/settings/settings-page.php:533
+msgctxt "settings"
+msgid ""
+"This will allow anyone with a file access link to view uploads regardless of "
+"whether they are logged in."
+msgstr ""
+
+#: admin/settings/settings-page.php:536
+msgid "Allow"
+msgstr ""
+
+#: admin/settings/settings-page.php:546
+msgctxt "settings"
+msgid "Enable experimental features."
+msgstr ""
+
+#: admin/settings/settings-page.php:547
+msgctxt "settings"
+msgid ""
+"This will enabled experimental features in Groundhogg and various extensions."
+msgstr ""
+
+#: admin/settings/settings-page.php:560
+msgctxt "settings"
+msgid "Get updates for pre-release versions of extensions!"
+msgstr ""
+
+#: admin/settings/settings-page.php:561
+msgctxt "settings"
+msgid ""
+"This will show automatic updates or extensions which may have experimental "
+"features."
+msgstr ""
+
+#: admin/settings/settings-page.php:574
+msgctxt "settings"
+msgid "Affiliate ID"
+msgstr ""
+
+#: admin/settings/settings-page.php:575
+msgctxt "settings"
+msgid "Please enter your affiliate ID you received from Groundhogg."
+msgstr ""
+
+#: admin/settings/settings-page.php:586
+msgctxt "settings"
+msgid "Affiliate Link in emails"
+msgstr ""
+
+#: admin/settings/settings-page.php:587
+msgctxt "settings"
+msgid ""
+"This settings adds affiliate link in every email you send using Groundhogg."
+msgstr ""
+
+#: admin/settings/settings-page.php:599
+msgctxt "settings"
+msgid "Event Failure Notifications"
+msgstr ""
+
+#: admin/settings/settings-page.php:600
+msgctxt "settings"
+msgid ""
+"This will let you know if something goes wrong in a funnel so you can fix it."
+msgstr ""
+
+#: admin/settings/settings-page.php:612
+msgctxt "settings"
+msgid "Event Failure Notification Email"
+msgstr ""
+
+#: admin/settings/settings-page.php:613
+msgctxt "settings"
+msgid "The email which you would like to send failure notifications to."
+msgstr ""
+
+#: admin/settings/settings-page.php:625
+msgctxt "settings"
+msgid "Enable script debug mode"
+msgstr ""
+
+#: admin/settings/settings-page.php:626
+msgctxt "settings"
+msgid ""
+"This will attempt to load full JS files instead of minified JS files for "
+"debugging."
+msgstr ""
+
+#: admin/settings/settings-page.php:651
+msgctxt "settings"
+msgid "Disable logged in user tracking precedence."
+msgstr ""
+
+#: admin/settings/settings-page.php:652
+msgctxt "settings"
+msgid ""
+"By default, Groundhogg will always show info of a logged in user before "
+"referencing information from tracking links or forms. You can disable this "
+"behaviour with this option."
+msgstr ""
+
+#: admin/settings/settings-page.php:655 admin/settings/settings-page.php:868
+#: admin/settings/settings-page.php:1004
+msgid "Disable"
+msgstr ""
+
+#: admin/settings/settings-page.php:664 includes/classes/email.php:464
+#: templates/managed-page.php:148
+msgid "Privacy Policy"
+msgstr ""
+
+#: admin/settings/settings-page.php:665
+msgctxt "settings"
+msgid "Link to your privacy policy."
+msgstr ""
+
+#: admin/settings/settings-page.php:675
+msgctxt "settings"
+msgid "Terms & Conditions (Terms of Service)"
+msgstr ""
+
+#: admin/settings/settings-page.php:676
+msgctxt "settings"
+msgid "Link to your terms & conditions."
+msgstr ""
+
+#: admin/settings/settings-page.php:686
+msgctxt "settings"
+msgid "Only send to confirmed emails."
+msgstr ""
+
+#: admin/settings/settings-page.php:687
+msgctxt "settings"
+msgid ""
+"This will stop emails being sent to contacts who do not have confirmed "
+"emails outside of the below grace period."
+msgstr ""
+
+#: admin/settings/settings-page.php:700
+msgctxt "settings"
+msgid "Email confirmation grace Period"
+msgstr ""
+
+#: admin/settings/settings-page.php:701
+msgctxt "settings"
+msgid ""
+"The number of days for which you can send an email to a contact after they "
+"are created but their email has not been confirmed. The default is 14 days."
+msgstr ""
+
+#: admin/settings/settings-page.php:713
+msgctxt "settings"
+msgid "Enable GDPR features."
+msgstr ""
+
+#: admin/settings/settings-page.php:714
+msgctxt "settings"
+msgid ""
+"This will add a consent box to your forms as well as a \"Delete Everything\" "
+"Button to your email preferences page."
+msgstr ""
+
+#: admin/settings/settings-page.php:727
+msgctxt "settings"
+msgid "Do not send email without consent."
+msgstr ""
+
+#: admin/settings/settings-page.php:728
+msgctxt "settings"
+msgid ""
+"This will prevent your system from sending emails to contacts for which you "
+"do not have explicit consent. Only works if GDPR features are enabled."
+msgstr ""
+
+#: admin/settings/settings-page.php:741
+msgctxt "settings"
+msgid "Recaptcha Site Key"
+msgstr ""
+
+#: admin/settings/settings-page.php:742
+msgctxt "settings"
+msgid "This is the key which faces the users on the front-end"
+msgstr ""
+
+#: admin/settings/settings-page.php:752
+msgctxt "settings"
+msgid "Recaptcha Secret Key"
+msgstr ""
+
+#: admin/settings/settings-page.php:753
+msgctxt "settings"
+msgid "Never ever ever share this with anyone!"
+msgstr ""
+
+#: admin/settings/settings-page.php:763
+msgctxt "settings"
+msgid "Bounce Inbox"
+msgstr ""
+
+#: admin/settings/settings-page.php:764
+msgctxt "settings"
+msgid "This is the inbox which emails will be sent to."
+msgstr ""
+
+#: admin/settings/settings-page.php:777
+msgctxt "settings"
+msgid "Bounce Inbox Password"
+msgstr ""
+
+#: admin/settings/settings-page.php:778
+msgctxt "settings"
+msgid "This password to access the inbox."
+msgstr ""
+
+#: admin/settings/settings-page.php:788
+msgctxt "settings"
+msgid "Mail Server"
+msgstr ""
+
+#: admin/settings/settings-page.php:789
+msgctxt "settings"
+msgid ""
+"This is the domain your email inbox is hosted. Most likely mail.yourdomain."
+"com"
+msgstr ""
+
+#: admin/settings/settings-page.php:801
+msgctxt "settings"
+msgid "IMAP Port"
+msgstr ""
+
+#: admin/settings/settings-page.php:802
+msgctxt "settings"
+msgid ""
+"The bounce checker requires an IMAP connection. Most IMAP ports are 993."
+msgstr ""
+
+#: admin/settings/settings-page.php:814
+msgctxt "settings"
+msgid "Default From Name"
+msgstr ""
+
+#: admin/settings/settings-page.php:815
+msgctxt "settings"
+msgid "Override the default <code>wp_mail</code> from name."
+msgstr ""
+
+#: admin/settings/settings-page.php:826
+msgctxt "settings"
+msgid "Default From Email"
+msgstr ""
+
+#: admin/settings/settings-page.php:827
+msgctxt "settings"
+msgid "Override the default <code>wp_mail</code> from email."
+msgstr ""
+
+#: admin/settings/settings-page.php:839
+msgctxt "settings"
+msgid "Email Footer Alignment"
+msgstr ""
+
+#: admin/settings/settings-page.php:840
+msgctxt "settings"
+msgid "The alignment of the email footer in all emails."
+msgstr ""
+
+#: admin/settings/settings-page.php:855
+msgctxt "settings"
+msgid "Custom Footer Text"
+msgstr ""
+
+#: admin/settings/settings-page.php:856
+msgctxt "settings"
+msgid ""
+"Text that will appear before the footer in every email. Accepts HTML and "
+"plain text."
+msgstr ""
+
+#: admin/settings/settings-page.php:864
+#, php-format
+msgctxt "settings"
+msgid "Disable the %s API"
+msgstr ""
+
+#: admin/settings/settings-page.php:865
+msgctxt "settings"
+msgid ""
+"Disabling the API will prevent other platforms from accessing information on "
+"this site. Functionality in some extensions may be affected as well."
+msgstr ""
+
+#: admin/settings/settings-page.php:877
+msgctxt "settings"
+msgid "Confirmed Tag"
+msgstr ""
+
+#: admin/settings/settings-page.php:878
+msgctxt "settings"
+msgid "All confirmed contacts will have this tag."
+msgstr ""
+
+#: admin/settings/settings-page.php:889
+msgctxt "settings"
+msgid "Unconfirmed Tag"
+msgstr ""
+
+#: admin/settings/settings-page.php:890
+msgctxt "settings"
+msgid "All unconfirmed contacts will have this tag."
+msgstr ""
+
+#: admin/settings/settings-page.php:901
+msgctxt "settings"
+msgid "Unsubscribed Tag"
+msgstr ""
+
+#: admin/settings/settings-page.php:902
+msgctxt "settings"
+msgid "All unsubscribed contacts will have this tag."
+msgstr ""
+
+#: admin/settings/settings-page.php:913
+msgctxt "settings"
+msgid "Spam Tag"
+msgstr ""
+
+#: admin/settings/settings-page.php:914
+msgctxt "settings"
+msgid "All contacts which are marked as spam will have this tag."
+msgstr ""
+
+#: admin/settings/settings-page.php:925
+msgctxt "settings"
+msgid "Bounced Tag"
+msgstr ""
+
+#: admin/settings/settings-page.php:926
+msgctxt "settings"
+msgid "All contacts which have bounced will have this tag."
+msgstr ""
+
+#: admin/settings/settings-page.php:937
+msgctxt "settings"
+msgid "Complained Tag"
+msgstr ""
+
+#: admin/settings/settings-page.php:938
+msgctxt "settings"
+msgid "All contacts which have complained will have this tag."
+msgstr ""
+
+#: admin/settings/settings-page.php:949
+msgctxt "settings"
+msgid "Subscribed Monthly Tag"
+msgstr ""
+
+#: admin/settings/settings-page.php:950
+msgctxt "settings"
+msgid "All contacts which have requested monthly emails will have this tag."
+msgstr ""
+
+#: admin/settings/settings-page.php:961
+msgctxt "settings"
+msgid "Subscribed Weekly Tag"
+msgstr ""
+
+#: admin/settings/settings-page.php:962
+msgctxt "settings"
+msgid "All contacts which have requested weekly emails will have this tag."
+msgstr ""
+
+#: admin/settings/settings-page.php:973
+msgctxt "settings"
+msgid "Marketable Tag"
+msgstr ""
+
+#: admin/settings/settings-page.php:974
+msgctxt "settings"
+msgid "All contacts which are considered marketable will have this tag."
+msgstr ""
+
+#: admin/settings/settings-page.php:985
+msgctxt "settings"
+msgid "Non Marketable Tag"
+msgstr ""
+
+#: admin/settings/settings-page.php:986
+msgctxt "settings"
+msgid "All contacts which are considered unmarketable will have this tag."
+msgstr ""
+
+#: admin/settings/settings-page.php:1000
+msgctxt "settings"
+msgid "Disable WP Cron."
+msgstr ""
+
+#: admin/settings/settings-page.php:1001
+msgctxt "settings"
+msgid ""
+"Disable the built-in WP Cron system. This is recommended if you are using an "
+"external cron job."
+msgstr ""
+
+#: admin/tags/edit.php:37
+msgid "A descriptive name of the tag so you remember what it means"
+msgstr ""
+
+#: admin/tags/edit.php:41 admin/tags/tags-page.php:243
+#: includes/replacements.php:409
+msgid "Description"
+msgstr ""
+
+#: admin/tags/edit.php:43 admin/tags/tags-page.php:245
+msgid ""
+"Tag descriptions are only visible to admins and will never be seen by "
+"contacts."
+msgstr ""
+
+#: admin/tags/tags-page.php:50
+msgctxt "page_title"
+msgid "Tags"
+msgstr ""
+
+#: admin/tags/tags-page.php:80
+msgctxt "page_title"
+msgid "Edit Tag"
+msgstr ""
+
+#: admin/tags/tags-page.php:119
+#, php-format
+msgctxt "notice"
+msgid "%d tag created"
+msgid_plural "%d tags created"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tags/tags-page.php:127 admin/tags/tags-page.php:163
+msgid "Maximum length for tag name is 50 characters."
+msgstr ""
+
+#: admin/tags/tags-page.php:142
+msgctxt "notice"
+msgid "Tag created!"
+msgstr ""
+
+#: admin/tags/tags-page.php:173
+msgctxt "notice"
+msgid "Tag updated."
+msgstr ""
+
+#: admin/tags/tags-page.php:188
+msgid "Tag associations reset."
+msgstr ""
+
+#: admin/tags/tags-page.php:211
+#, php-format
+msgctxt "notice"
+msgid "%d tag deleted"
+msgid_plural "%d tags deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tags/tags-page.php:226
+msgid "Search Tags"
+msgstr ""
+
+#: admin/tags/tags-page.php:233
+msgid "Add New Tag"
+msgstr ""
+
+#: admin/tags/tags-page.php:238
+msgid "Tag Name"
+msgstr ""
+
+#: admin/tags/tags-page.php:240
+msgid "Name a tag something simple so you do not forget it."
+msgstr ""
+
+#: admin/tags/tags-page.php:248
+msgid "Bulk Add Tags"
+msgstr ""
+
+#: admin/tags/tags-page.php:250
+msgid "Enter 1 tag per line."
+msgstr ""
+
+#: admin/tags/tags-page.php:254
+msgid "Add tags in bulk?"
+msgstr ""
+
+#: admin/tags/tags-page.php:275
+msgctxt "action"
+msgid "Add New Tag"
+msgstr ""
+
+#: admin/tags/tags-table.php:55
+msgctxt "Column label"
+msgid "Name"
+msgstr ""
+
+#: admin/tags/tags-table.php:56
+msgctxt "Column label"
+msgid "Description"
+msgstr ""
+
+#: admin/tags/tags-table.php:57
+msgctxt "Column label"
+msgid "Count"
+msgstr ""
+
+#: admin/tags/tags-table.php:77
+msgctxt "action"
+msgid "Recount Contacts"
+msgstr ""
+
+#: admin/tools/add-import.php:26
+msgid "If you have a .CSV file you can upload it here!"
+msgstr ""
+
+#: admin/tools/add-import.php:30
+msgctxt "action"
+msgid "Import Contacts"
+msgstr ""
+
+#: admin/tools/add-import.php:32
+msgid "Import from existing file."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:8 admin/tools/tools-page.php:187
+msgid "Advanced Cron Setup"
+msgstr ""
+
+#: admin/tools/advanced-setup.php:9
+msgid ""
+"As your business scales up and you start sending more emails and you get "
+"more contacts, you might need to optimize your Groundhogg installation for "
+"best performance."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:10
+msgid ""
+"There are performance savings to be had by bypassing the WP Cron system and "
+"accessing the Groundhogg Event Queue directly via an external cron job."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:11
+msgid "1. Install <code>gh-cron.php</code>"
+msgstr ""
+
+#: admin/tools/advanced-setup.php:12
+msgid "This file can be installed automatically."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:15
+msgid "Install Automatically!"
+msgstr ""
+
+#: admin/tools/advanced-setup.php:18
+msgid "<code>gh-cron.php</code> is installed!"
+msgstr ""
+
+#: admin/tools/advanced-setup.php:21
+msgid "If automatic installation does not work, install it manually."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:24
+msgid "Download the <code>gh-cron.txt</code> file."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:26
+msgid ""
+"Upload it to the root directory of WordPress. This is the same folder as "
+"your <code>wp-config.php</code> file."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:27
+msgid "Change the file extension from <code>.txt</code> to <code>.php</code>"
+msgstr ""
+
+#: admin/tools/advanced-setup.php:29
+msgid "2. Create an external cron job for the Groundhogg Event Queue."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:30
+msgid ""
+"You must create an external CRON JOB which makes a request to the cron file "
+"you just created."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:31
+msgid ""
+"This new cron job should execute <code>every 1 minute</code> to the url "
+"below."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:37
+msgid "Create a cron job using <b>cron-job.org</b>."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:40
+msgid "Create a cron job using <b>cPanel</b>."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:43
+msgid "3. Unhook the Groundhogg Event Queue from WP Cron"
+msgstr ""
+
+#: admin/tools/advanced-setup.php:44
+msgid ""
+"Now that the Groundhogg Event Queue has its own external cron job, you do "
+"not need to have it processed with other WordPress scheduled tasks."
+msgstr ""
+
+#: admin/tools/advanced-setup.php:47
+msgid "Unhook from WP Cron"
+msgstr ""
+
+#: admin/tools/advanced-setup.php:50
+msgid "The event queue is currently unhooked!"
+msgstr ""
+
+#: admin/tools/advanced-setup.php:53
+msgid "All done!"
+msgstr ""
+
+#: admin/tools/exports-table.php:52 admin/tools/imports-table.php:53
+msgctxt "Column label"
+msgid "File"
+msgstr ""
+
+#: admin/tools/exports-table.php:53 admin/tools/imports-table.php:54
+msgctxt "Column label"
+msgid "Rows"
+msgstr ""
+
+#: admin/tools/exports-table.php:54
+msgctxt "Column label"
+msgid "Date Exported"
+msgstr ""
+
+#: admin/tools/exports-table.php:258
+msgid "Delete export"
+msgstr ""
+
+#: admin/tools/imports-table.php:55
+msgctxt "Column label"
+msgid "Date Uploaded"
+msgstr ""
+
+#: admin/tools/imports-table.php:258
+msgid "Delete Import"
+msgstr ""
+
+#: admin/tools/map-import.php:54
+msgid "Map Contact Fields"
+msgstr ""
+
+#: admin/tools/map-import.php:55
+msgid "Map your CSV columns to the contact records fields below."
+msgstr ""
+
+#: admin/tools/map-import.php:75
+msgid "&larr; Prev"
+msgstr ""
+
+#: admin/tools/map-import.php:82
+msgid "Next &rarr;"
+msgstr ""
+
+#: admin/tools/map-import.php:92
+msgid "Column Label"
+msgstr ""
+
+#: admin/tools/map-import.php:93
+msgid "Example Data / Contact Record Field"
+msgstr ""
+
+#: admin/tools/map-import.php:127
+msgid "Add additional tags to this import"
+msgstr ""
+
+#: admin/tools/map-import.php:133
+msgid "I have previously confirmed these email addresses."
+msgstr ""
+
+#: admin/tools/map-import.php:135 includes/steps/benchmarks/form-filled.php:488
+#: includes/steps/benchmarks/form-filled.php:628
+msgid "Yes"
+msgstr ""
+
+#: admin/tools/map-import.php:147
+msgid "Import Contacts"
+msgstr ""
+
+#: admin/tools/tools-page.php:108
+msgid "Tools"
+msgstr ""
+
+#: admin/tools/tools-page.php:141
+msgid "Import New List"
+msgstr ""
+
+#: admin/tools/tools-page.php:148
+msgid "Export All Contacts"
+msgstr ""
+
+#: admin/tools/tools-page.php:159
+msgid "System Info & Debug"
+msgstr ""
+
+#: admin/tools/tools-page.php:171
+msgid "Sync/Create Users"
+msgstr ""
+
+#: admin/tools/tools-page.php:175
+msgid "Bulk Delete"
+msgstr ""
+
+#: admin/tools/tools-page.php:179
+msgid "Updates"
+msgstr ""
+
+#: admin/tools/tools-page.php:183
+msgid "Install"
+msgstr ""
+
+#: admin/tools/tools-page.php:195
+msgid "Re-install Features"
+msgstr ""
+
+#: admin/tools/tools-page.php:217 admin/tools/tools-page.php:225
+msgid "Download System Info"
+msgstr ""
+
+#: admin/tools/tools-page.php:219
+msgid "Download System Info when requesting support."
+msgstr ""
+
+#: admin/tools/tools-page.php:230
+msgid "Safe Mode"
+msgstr ""
+
+#: admin/tools/tools-page.php:232
+#, php-format
+msgid ""
+"Safe mode will disable any non %s related plugins for debugging purposes."
+msgstr ""
+
+#: admin/tools/tools-page.php:241
+msgid "Enable Safe Mode"
+msgstr ""
+
+#: admin/tools/tools-page.php:248 includes/tools.php:452
+msgid "Disable Safe Mode"
+msgstr ""
+
+#: admin/tools/tools-page.php:268
+msgid "Safe mode has been enabled."
+msgstr ""
+
+#: admin/tools/tools-page.php:274
+msgid "Safe mode has been disabled."
+msgstr ""
+
+#: admin/tools/tools-page.php:286
+msgid "Sync Users & Contacts"
+msgstr ""
+
+#: admin/tools/tools-page.php:294
+msgid ""
+"The sync process will create new contact records for all users in the "
+"database. If a contact records already exists then the association will be "
+"updated."
+msgstr ""
+
+#: admin/tools/tools-page.php:297
+msgid "Sync all user meta."
+msgstr ""
+
+#: admin/tools/tools-page.php:304
+msgctxt "action"
+msgid "Start Sync Process"
+msgstr ""
+
+#: admin/tools/tools-page.php:315
+msgid "Create Users"
+msgstr ""
+
+#: admin/tools/tools-page.php:325
+msgid "Select contacts to create accounts for."
+msgstr ""
+
+#: admin/tools/tools-page.php:333
+msgid "Exclude these contacts."
+msgstr ""
+
+#: admin/tools/tools-page.php:341
+msgid "Choose role."
+msgstr ""
+
+#: admin/tools/tools-page.php:353
+msgid "Send email notification to user."
+msgstr ""
+
+#: admin/tools/tools-page.php:359
+msgid "Much slower"
+msgstr ""
+
+#: admin/tools/tools-page.php:365
+msgctxt "action"
+msgid "Create Users"
+msgstr ""
+
+#: admin/tools/tools-page.php:511
+msgctxt "error"
+msgid "Could not upload file."
+msgstr ""
+
+#: admin/tools/tools-page.php:591
+msgid "Imports deleted."
+msgstr ""
+
+#: admin/tools/tools-page.php:642
+msgid "Select Columns to Export"
+msgstr ""
+
+#: admin/tools/tools-page.php:645
+msgid "Basic Contact Information"
+msgstr ""
+
+#: admin/tools/tools-page.php:673
+msgid "Custom Meta Information"
+msgstr ""
+
+#: admin/tools/tools-page.php:682
+msgid "Select All"
+msgstr ""
+
+#: admin/tools/tools-page.php:687
+msgid "De-Select All"
+msgstr ""
+
+#: admin/tools/tools-page.php:778
+msgid "Exports deleted."
+msgstr ""
+
+#: admin/tools/tools-page.php:790
+msgid "Previous Updates"
+msgstr ""
+
+#: admin/tools/tools-page.php:797
+msgid ""
+"WARNING: Re-performing previous updates can cause unexpected issues and "
+"should be done with caution. We recommend you backup your site, or export "
+"your contact list before proceeding."
+msgstr ""
+
+#: admin/tools/tools-page.php:808
+#, php-format
+msgid "Yes, perform update %s"
+msgstr ""
+
+#: admin/tools/tools-page.php:813
+msgid "Run previous update paths in case of a failed update."
+msgstr ""
+
+#: admin/tools/tools-page.php:833
+msgid "Install Help"
+msgstr ""
+
+#: admin/tools/tools-page.php:835
+msgid ""
+"In the event there were installation issues you can run the install process "
+"from here."
+msgstr ""
+
+#: admin/tools/tools-page.php:851
+msgid "&#9888; There is no going back once the deletion process has started."
+msgstr ""
+
+#: admin/tools/tools-page.php:860
+msgid "Delete Contacts in Bulk by Tag"
+msgstr ""
+
+#: admin/tools/tools-page.php:870
+msgid "Once you click the delete button there is no going back!"
+msgstr ""
+
+#: admin/tools/tools-page.php:874
+msgctxt "action"
+msgid "Delete Contacts"
+msgstr ""
+
+#: admin/tools/tools-page.php:918
+msgid "Unable to install gh-cron.php file. Please install is manually."
+msgstr ""
+
+#: admin/tools/tools-page.php:920
+msgid "Installed gh-cron.php successfully!"
+msgstr ""
+
+#: admin/tools/tools-page.php:951 includes/mailhawk.php:384
+#: includes/mailhawk.php:397 includes/plugin.php:207 includes/plugin.php:220
+#: includes/send-wp.php:379 includes/send-wp.php:392
+msgid "Something went wrong."
+msgstr ""
+
+#: admin/tools/tools-page.php:953
+msgid "Unhooked Groundhogg from WP Cron."
+msgstr ""
+
+#: admin/tools/tools-page.php:964
+msgid "WP Cron Setup"
+msgstr ""
+
+#: admin/tools/tools-page.php:965
+msgid "Follow this guide to properly configure WP Cron."
+msgstr ""
+
+#: admin/tools/tools-page.php:966
+msgid "1. Disable built-in WP Cron"
+msgstr ""
+
+#: admin/tools/tools-page.php:967
+msgid ""
+"For the best performance you need to disable the built-in WP Cron. This will "
+"improve your overall WP performance while ensuring Groundhogg works properly."
+msgstr ""
+
+#: admin/tools/tools-page.php:974
+msgid "Disable WP Cron"
+msgstr ""
+
+#: admin/tools/tools-page.php:977
+msgid "Built-in WP Cron is already disabled."
+msgstr ""
+
+#: admin/tools/tools-page.php:983
+msgid "2. Create an external Cron Job."
+msgstr ""
+
+#: admin/tools/tools-page.php:984
+msgid ""
+"You need to replace the built-in WP Cron with an external cron-job. Choose "
+"one of the following methods."
+msgstr ""
+
+#: admin/tools/tools-page.php:985
+msgid "a) Use Cron-Job.org"
+msgstr ""
+
+#: admin/tools/tools-page.php:986
+msgid ""
+"Cron-Job.org is a free site you can use to quickly setup an external cron-"
+"job."
+msgstr ""
+
+#: admin/tools/tools-page.php:987
+msgid "Use the below URL as the request URL."
+msgstr ""
+
+#: admin/tools/tools-page.php:988
+msgid "<b>Cron URL: </b>"
+msgstr ""
+
+#: admin/tools/tools-page.php:995
+msgid "Use Cron-Job.org"
+msgstr ""
+
+#: admin/tools/tools-page.php:996
+msgid "a) Use CPanel"
+msgstr ""
+
+#: admin/tools/tools-page.php:997
+msgid ""
+"If you have access to CPanel you may be able to use CPanels cron system to "
+"setup the cron-job."
+msgstr ""
+
+#: admin/tools/tools-page.php:998
+msgid "Use the below command."
+msgstr ""
+
+#: admin/tools/tools-page.php:999
+msgid "<b>Command: </b>"
+msgstr ""
+
+#: admin/tools/tools-page.php:1006
+msgid "Use CPanel"
+msgstr ""
+
+#: admin/tools/tools-page.php:1019
+msgid "WP Cron has been disabled!"
+msgstr ""
+
+#: admin/tools/tools-page.php:1028
+msgid "Re-install features."
+msgstr ""
+
+#: admin/tools/tools-page.php:1029
+msgid ""
+"The following features have been removed from the Groundhogg core plugin in "
+"version 2.1 and have instead been added to separate premium extensions."
+msgstr ""
+
+#: admin/tools/tools-page.php:1031
+msgid "Elementor integration"
+msgstr ""
+
+#: admin/tools/tools-page.php:1032
+msgid "SMS functionality"
+msgstr ""
+
+#: admin/tools/tools-page.php:1033
+msgid "Advanced email editor"
+msgstr ""
+
+#: admin/tools/tools-page.php:1034
+msgid "Advanced funnel steps"
+msgstr ""
+
+#: admin/tools/tools-page.php:1035
+msgid "Superlinks"
+msgstr ""
+
+#: admin/tools/tools-page.php:1037
+msgid ""
+"You can learn more about this change <i>(officially announced Oct 17th)</i> "
+"<a href=\"https://www.groundhogg.io/press/new-pricing-and-updates-planned-"
+"for-november-1st/\" target=\"_blank\">on our blog.</a>"
+msgstr ""
+
+#: admin/tools/tools-page.php:1038
+msgid ""
+"If you have an All Access Pass, <a href=\"https://www.groundhogg.io/pricing/"
+"\" target=\"_blank\">Premium Plan</a> or a <a href=\"https://www.groundhogg."
+"io/grandfather-program/\" target=\"_blank\">Grandfather license</a> get you "
+"can enter it below to automatically install and activate the removed "
+"features."
+msgstr ""
+
+#: admin/tools/tools-page.php:1048
+msgid "License Key:"
+msgstr ""
+
+#: admin/tools/tools-page.php:1056
+msgid "Find my license key"
+msgstr ""
+
+#: admin/tools/tools-page.php:1061
+msgid "Get a license key"
+msgstr ""
+
+#: admin/tools/tools-page.php:1070
+msgid "Install extensions!"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:118 admin/welcome/welcome-page.php:119
+msgctxt "page_title"
+msgid "Welcome"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:177
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:190
+msgid "Groundhogg.io"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:195
+msgid "Documentation"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:200
+msgid "Store"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:205
+msgid "Courses"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:210
+msgid "Support Group"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:215
+msgid "My Account"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:220
+msgid "Find a Partner"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:277
+msgid "Take The Quickstart Course!"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:290
+msgid "Import your list!"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:306
+msgid "Import your Contact List!"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:311 admin/welcome/welcome-page.php:348
+#: admin/welcome/welcome-page.php:388 admin/welcome/welcome-page.php:423
+msgid "Read the full guide"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:327
+msgid "Create your first funnel!"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:343
+msgid "Create your first Funnel!"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:366
+msgid "Send your first broadcast!"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:382
+msgid "Send your first Broadcast!"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:402
+msgid "Configure WP-Cron"
+msgstr ""
+
+#: admin/welcome/welcome-page.php:418
+msgid "Configure WP-Cron!"
+msgstr ""
+
+#: api/v3/base.php:168
+msgctxt "api"
+msgid "Your user level does not have sufficient permissions."
+msgstr ""
+
+#: api/v3/base.php:178
+msgctxt "api"
+msgid "Unknown error."
+msgstr ""
+
+#: api/v3/base.php:228
+#, php-format
+msgctxt "api"
+msgid "Contact with ID %s does not exist."
+msgstr ""
+
+#: api/v3/base.php:230
+#, php-format
+msgctxt "api"
+msgid "Contact with email %s does not exist."
+msgstr ""
+
+#: api/v3/base.php:267
+msgctxt "api"
+msgid "Please enter a API valid token and public key."
+msgstr ""
+
+#: api/v3/base.php:276
+msgctxt "api"
+msgid "Public key is invalid."
+msgstr ""
+
+#: api/v3/base.php:282
+msgctxt "api"
+msgid "Invalid Authentication."
+msgstr ""
+
+#: api/v3/broadcasts-api.php:111
+msgctxt "api"
+msgid "You cannot schedule an email while it is in draft mode."
+msgstr ""
+
+#: api/v3/broadcasts-api.php:126
+msgctxt "api"
+msgid "Please select a tag with at least 1 contact."
+msgstr ""
+
+#: api/v3/broadcasts-api.php:152
+msgctxt "api"
+msgid "Please select a time in the future"
+msgstr ""
+
+#: api/v3/broadcasts-api.php:188
+msgctxt "api"
+msgid "Broadcast scheduled successfully."
+msgstr ""
+
+#: api/v3/contacts-api.php:34
+msgctxt "api"
+msgid ""
+"An array of query args. See WPGH_Contact_Query for acceptable arguments."
+msgstr ""
+
+#: api/v3/contacts-api.php:38 api/v3/email-api.php:34 api/v3/tags-api.php:33
+msgctxt "api"
+msgid "Whether to retrieve as available for a select input."
+msgstr ""
+
+#: api/v3/contacts-api.php:42 api/v3/email-api.php:38 api/v3/tags-api.php:37
+msgctxt "api"
+msgid "Whether to retrieve as available for an ajax select2 input."
+msgstr ""
+
+#: api/v3/contacts-api.php:46 api/v3/email-api.php:42 api/v3/tags-api.php:41
+msgctxt "api"
+msgid "Search string for tag name."
+msgstr ""
+
+#: api/v3/contacts-api.php:50 api/v3/email-api.php:46 api/v3/tags-api.php:45
+msgctxt "api"
+msgid "Shorthand for search."
+msgstr ""
+
+#: api/v3/contacts-api.php:61
+msgctxt "api"
+msgid ""
+"Contains list of contact arguments. Please visit www.groundhogg.io for full "
+"list of accepted arguments."
+msgstr ""
+
+#: api/v3/contacts-api.php:72
+msgctxt "api"
+msgid "The ID or email of the contact you want to update."
+msgstr ""
+
+#: api/v3/contacts-api.php:76 api/v3/contacts-api.php:95
+#: api/v3/contacts-api.php:113 api/v3/contacts-api.php:128
+#: api/v3/contacts-api.php:147 api/v3/contacts-api.php:169
+#: api/v3/contacts-api.php:191 api/v3/contacts-api.php:213
+#: api/v3/contacts-api.php:228 api/v3/email-api.php:63 api/v3/tags-api.php:102
+#: api/v3/tags-api.php:124
+msgctxt "api"
+msgid "Search using the user ID."
+msgstr ""
+
+#: api/v3/contacts-api.php:80
+msgctxt "api"
+msgid "Array of updated contact details."
+msgstr ""
+
+#: api/v3/contacts-api.php:91
+msgctxt "api"
+msgid "The ID or email of the contact you want to delete."
+msgstr ""
+
+#: api/v3/contacts-api.php:109 api/v3/contacts-api.php:124
+#: api/v3/contacts-api.php:165 api/v3/contacts-api.php:209
+#: api/v3/contacts-api.php:224 api/v3/tags-api.php:98
+msgctxt "api"
+msgid "The ID or email of the contact you want to apply tags to."
+msgstr ""
+
+#: api/v3/contacts-api.php:132 api/v3/contacts-api.php:151
+#: api/v3/contacts-api.php:173 api/v3/contacts-api.php:195
+#: api/v3/tags-api.php:106 api/v3/tags-api.php:128
+msgctxt "api"
+msgid "Array of tag names or tag ids."
+msgstr ""
+
+#: api/v3/contacts-api.php:143 api/v3/contacts-api.php:187
+#: api/v3/tags-api.php:120
+msgctxt "api"
+msgid "The ID or email of the contact you want to remove tags from."
+msgstr ""
+
+#: api/v3/contacts-api.php:232
+msgctxt "api"
+msgid "the note text you wish to add."
+msgstr ""
+
+#: api/v3/contacts-api.php:383 api/v3/contacts-api.php:445
+msgctxt "api"
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: api/v3/contacts-api.php:410
+msgctxt "api"
+msgid "Contact added successfully."
+msgstr ""
+
+#: api/v3/contacts-api.php:449
+msgctxt "api"
+msgid "This email address already belongs to another contact."
+msgstr ""
+
+#: api/v3/contacts-api.php:477
+msgctxt "api"
+msgid "Contact updated successfully."
+msgstr ""
+
+#: api/v3/contacts-api.php:504
+msgctxt "api"
+msgid "Contact deleted successfully."
+msgstr ""
+
+#: api/v3/email-api.php:30
+msgctxt "api"
+msgid "Any search parameters."
+msgstr ""
+
+#: api/v3/email-api.php:59
+msgctxt "api"
+msgid "The ID or email of the contact you want to send email to."
+msgstr ""
+
+#: api/v3/email-api.php:67
+msgctxt "api"
+msgid "Email ID which you want to send."
+msgstr ""
+
+#: api/v3/email-api.php:157
+#, php-format
+msgctxt "api"
+msgid "Email with ID %d not found."
+msgstr ""
+
+#: api/v3/email-api.php:166
+msgctxt "api"
+msgid "Email sent successfully to contact."
+msgstr ""
+
+#: api/v3/tags-api.php:56
+msgctxt "api"
+msgid "Array of tag names."
+msgstr ""
+
+#: api/v3/tags-api.php:67
+msgctxt "api"
+msgid "The ID of the tag to delete."
+msgstr ""
+
+#: api/v3/tags-api.php:78
+msgctxt "api"
+msgid "Contains array of tags to update."
+msgstr ""
+
+#: api/v3/tags-api.php:81
+msgctxt "api"
+msgid "The new name of the tag."
+msgstr ""
+
+#: api/v3/tags-api.php:84
+msgctxt "api"
+msgid "the new description of the tag."
+msgstr ""
+
+#: blocks/beaver-builder/form-widget.php:12 blocks/blocks.php:43
+#: blocks/elementor/form-widget.php:15
+msgid "Groundhogg Forms"
+msgstr ""
+
+#: blocks/beaver-builder/form-widget.php:13
+msgid "Use Groundhogg forms to collect leads and launch automation!"
+msgstr ""
+
+#: blocks/blocks.php:40 blocks/blocks.php:47
+msgid "Select a form"
+msgstr ""
+
+#: blocks/elementor/form-widget.php:31
+msgid "Content"
+msgstr ""
+
+#: blocks/elementor/form-widget.php:41 blocks/gutenberg/gutenberg.php:47
+msgid "Select a Form"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: blocks/gutenberg/gutenberg.php:45
+msgid "Groundhogg"
+msgstr ""
+
+#: blocks/gutenberg/gutenberg.php:46
+msgid "Select and display one of your forms."
+msgstr ""
+
+#: blocks/gutenberg/gutenberg.php:48
+msgid "Form Settings"
+msgstr ""
+
+#: blocks/gutenberg/gutenberg.php:49
+msgid "Form"
+msgstr ""
+
+#: blocks/gutenberg/gutenberg.php:50
+msgid "Show Title"
+msgstr ""
+
+#: blocks/gutenberg/gutenberg.php:51
+msgid "Show Description"
+msgstr ""
+
+#: db/steps.php:104
+msgid "New Step"
+msgstr ""
+
+#. translators: %s: PHP version
+#: groundhogg.php:82
+#, php-format
+msgid "Groundhogg requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr ""
+
+#. translators: %s: WordPress version
+#: groundhogg.php:98
+#, php-format
+msgid ""
+"Groundhogg requires WordPress version %s+. Because you are using an earlier "
+"version, the plugin is currently NOT RUNNING."
+msgstr ""
+
+#: includes/bounce-checker.php:73
+msgctxt "action"
+msgid "Test IMAP Connection"
+msgstr ""
+
+#: includes/bounce-checker.php:156
+msgctxt "notice"
+msgid "Successful IMAP connection established."
+msgstr ""
+
+#: includes/bulk-jobs/broadcast-scheduler.php:230
+msgctxt "notice"
+msgid "Broadcast scheduled!"
+msgstr ""
+
+#: includes/bulk-jobs/bulk-job.php:130 includes/bulk-jobs/process-events.php:98
+msgid ""
+"There was an error performing this process. This is most likely due to the "
+"PHP max_input_vars variable not being high enough."
+msgstr ""
+
+#: includes/bulk-jobs/bulk-job.php:153
+#, php-format
+msgid "Processed %d items in %s seconds. Skipped %s items."
+msgstr ""
+
+#: includes/bulk-jobs/bulk-job.php:155
+#, php-format
+msgid "Processed %d items in %s seconds."
+msgstr ""
+
+#: includes/bulk-jobs/bulk-job.php:234
+msgctxt "notice"
+msgid "Job finished!"
+msgstr ""
+
+#: includes/bulk-jobs/export-contacts.php:187
+#, php-format
+msgctxt "notice"
+msgid "Export file created. %s"
+msgstr ""
+
+#: includes/bulk-jobs/migrate-form-impressions.php:23
+msgid ""
+"Thank you for updating to 2.0! Please click here to update your database."
+msgstr ""
+
+#: includes/bulk-jobs/migrate-waiting-events.php:33
+msgid "Migrate now!"
+msgstr ""
+
+#: includes/bulk-jobs/migrate-waiting-events.php:35
+#, php-format
+msgid ""
+"%s requires a database migration. Consider backing up your site before "
+"migrating. </p><p>%s"
+msgstr ""
+
+#: includes/bulk-jobs/process-events.php:114
+#, php-format
+msgid "Processed %d events in %s seconds."
+msgstr ""
+
+#: includes/bulk-jobs/process-events.php:116
+#, php-format
+msgid "Processed %d events in %s seconds. %d events failed."
+msgstr ""
+
+#: includes/classes/broadcast.php:87
+msgid "Broadcast Email"
+msgstr ""
+
+#: includes/classes/broadcast.php:89
+msgid "Broadcast SMS"
+msgstr ""
+
+#: includes/classes/broadcast.php:171
+msgid "(The associated Email or SMS was deleted.)"
+msgstr ""
+
+#: includes/classes/contact.php:711
+msgid "Unable to upload file."
+msgstr ""
+
+#: includes/classes/email.php:351
+#, php-format
+msgid "[TEST] %s"
+msgstr ""
+
+#: includes/classes/email.php:472 includes/steps/benchmarks/form-filled.php:324
+msgid "Terms"
+msgstr ""
+
+#: includes/classes/email.php:738
+#, php-format
+msgid "Emails cannot be sent in %s mode."
+msgstr ""
+
+#: includes/classes/email.php:744
+msgid "No valid recipient was provided."
+msgstr ""
+
+#: includes/classes/email.php:756
+msgid "Contact is not marketable."
+msgstr ""
+
+#: includes/classes/email.php:826
+#, php-format
+msgid ""
+"Email failed to send.\n"
+"\n"
+"            Send time: %s\n"
+"\n"
+"            To: %s\n"
+"\n"
+"            Subject: %s\n"
+"\n"
+"            Error Code: %s\n"
+"\n"
+"            Error Message"
+msgstr ""
+
+#: includes/extension.php:167
+#, php-format
+msgid "%s is missing required plugins to be active: %s"
+msgstr ""
+
+#: includes/extension.php:498
+msgid "License"
+msgstr ""
+
+#: includes/extension.php:505
+#, php-format
+msgid "Your license expires on %s"
+msgstr ""
+
+#: includes/extension.php:508
+msgid "Deactivate"
+msgstr ""
+
+#: includes/extension.php:520
+msgid "Activate"
+msgstr ""
+
+#: includes/filters.php:234
+#, php-format
+msgid ""
+" | Like Groundhogg? <a target=\"_blank\" href=\"%s\">Leave a Review</a>!</"
+"span>"
+msgstr ""
+
+#: includes/filters.php:234
+msgid "https://wordpress.org/support/plugin/groundhogg/reviews/#new-post"
+msgstr ""
+
+#: includes/form/fields/address.php:20
+msgctxt "form_default"
+msgid "Address *"
+msgstr ""
+
+#: includes/form/fields/address.php:86
+msgid "Province/State"
+msgstr ""
+
+#: includes/form/fields/address.php:94
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: includes/form/fields/birthday.php:25
+msgctxt "form_default"
+msgid "Birthday *"
+msgstr ""
+
+#: includes/form/fields/date.php:24
+msgctxt "form_default"
+msgid "Date *"
+msgstr ""
+
+#: includes/form/fields/dropdown.php:17
+msgctxt "form_default"
+msgid "Select *"
+msgstr ""
+
+#: includes/form/fields/dropdown.php:24
+msgctxt "form_default"
+msgid "Please select one"
+msgstr ""
+
+#: includes/form/fields/dropdown.php:146
+msgid "Please select a valid dropdown option."
+msgstr ""
+
+#: includes/form/fields/email.php:18
+msgctxt "form_default"
+msgid "Email *"
+msgstr ""
+
+#: includes/form/fields/email.php:51
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: includes/form/fields/file.php:26
+msgctxt "form_default"
+msgid "File *"
+msgstr ""
+
+#: includes/form/fields/first.php:18
+msgctxt "form_default"
+msgid "First Name *"
+msgstr ""
+
+#: includes/form/fields/first.php:25 includes/form/fields/last.php:25
+msgctxt "form_default"
+msgid "Do not include numbers or special characters."
+msgstr ""
+
+#: includes/form/fields/first.php:42 includes/form/fields/last.php:52
+msgid "Names should not contain numbers or special symbols."
+msgstr ""
+
+#: includes/form/fields/first.php:45
+msgid "Please provide a valid first name."
+msgstr ""
+
+#: includes/form/fields/gdpr.php:16
+msgctxt "form_default"
+msgid ""
+"I consent to having my personal information collected, and to receive "
+"marketing and transactional information related to my request."
+msgstr ""
+
+#: includes/form/fields/gdpr.php:22
+msgctxt "form_default"
+msgid "I Consent"
+msgstr ""
+
+#: includes/form/fields/last.php:18
+msgctxt "form_default"
+msgid "Last Name *"
+msgstr ""
+
+#: includes/form/fields/last.php:55
+msgid "Please provide a valid last name."
+msgstr ""
+
+#: includes/form/fields/number.php:24
+msgctxt "form_default"
+msgid "Number *"
+msgstr ""
+
+#: includes/form/fields/number.php:75 includes/form/fields/phone.php:50
+msgid "Please provide a valid number."
+msgstr ""
+
+#: includes/form/fields/phone.php:18
+msgctxt "form_default"
+msgid "Phone *"
+msgstr ""
+
+#: includes/form/fields/radio.php:16
+msgctxt "form_default"
+msgid "Radio *"
+msgstr ""
+
+#: includes/form/fields/radio.php:92
+msgid "Please select a valid option."
+msgstr ""
+
+#: includes/form/fields/recaptcha.php:90
+msgctxt "submission_error"
+msgid "Failed reCaptcha verification. You are probably a robot."
+msgstr ""
+
+#: includes/form/fields/submit.php:15
+#: includes/steps/benchmarks/form-filled.php:368 templates/preferences.php:140
+msgid "Submit"
+msgstr ""
+
+#: includes/form/fields/terms.php:18
+msgctxt "form_default"
+msgid "I agree to the <i>terms of service</i>."
+msgstr ""
+
+#: includes/form/fields/terms.php:24
+msgctxt "form_default"
+msgid "Please agree to the terms of service."
+msgstr ""
+
+#: includes/form/fields/terms.php:40
+msgid "view terms"
+msgstr ""
+
+#: includes/form/fields/time.php:24
+msgctxt "form_default"
+msgid "Time *"
+msgstr ""
+
+#: includes/form/form.php:207 includes/form/form.php:280
+msgid "<b>Configuration Error:</b> This form has been deleted."
+msgstr ""
+
+#: includes/form/form.php:217 includes/form/form.php:290
+msgid ""
+"<b>Configuration Error:</b> This form has either been deleted or has not "
+"content yet."
+msgstr ""
+
+#: includes/form/form.php:298
+msgid "(Edit Form)"
+msgstr ""
+
+#: includes/form/submission-handler.php:95
+#: includes/form/submission-handler.php:104
+msgid "This form does not exist."
+msgstr ""
+
+#: includes/form/submission-handler.php:108
+msgid "This form is not accepting submissions."
+msgstr ""
+
+#: includes/form/submission-handler.php:117
+msgid "This form is setup incorrectly."
+msgstr ""
+
+#: includes/form/submission-handler.php:130
+msgid "Submission flagged as spam."
+msgstr ""
+
+#: includes/form/submission-handler.php:156
+#: includes/form/submission-handler.php:166
+#, php-format
+msgid "<b>Missing a required field:</b> %s"
+msgstr ""
+
+#: includes/form/submission-handler.php:292
+msgid "First & last name should not be the same."
+msgstr ""
+
+#: includes/form/submission-handler.php:310
+#: includes/form/submission-handler.php:316
+msgid "Unable to create contact record."
+msgstr ""
+
+#: includes/form/submission-handler.php:374
+msgid "Your submission has been received!"
+msgstr ""
+
+#: includes/form/submission-handler.php:383
+msgctxt "notice"
+msgid "Form submitted"
+msgstr ""
+
+#: includes/functions.php:1240
+msgid "Could not create contact."
+msgstr ""
+
+#: includes/functions.php:1605
+msgid "Full Name"
+msgstr ""
+
+#: includes/functions.php:1608
+msgid "Email Address"
+msgstr ""
+
+#: includes/functions.php:1609
+msgid "Optin Status"
+msgstr ""
+
+#: includes/functions.php:1610
+msgid "User Id"
+msgstr ""
+
+#: includes/functions.php:1611
+msgid "Owner Id"
+msgstr ""
+
+#: includes/functions.php:1612
+msgid "Date Created"
+msgstr ""
+
+#: includes/functions.php:1613
+msgid "Date Optin Status Changed"
+msgstr ""
+
+#: includes/functions.php:1614 includes/steps/benchmarks/form-filled.php:316
+msgid "Birthday"
+msgstr ""
+
+#: includes/functions.php:1616
+msgid "Phone Number Extension"
+msgstr ""
+
+#: includes/functions.php:1620
+msgid "Postal/Zip"
+msgstr ""
+
+#: includes/functions.php:1621
+msgid "Province/State/Region"
+msgstr ""
+
+#: includes/functions.php:1623
+msgid "Company Name"
+msgstr ""
+
+#: includes/functions.php:1624
+msgid "Full Company Address"
+msgstr ""
+
+#: includes/functions.php:1625
+msgid "Job Title"
+msgstr ""
+
+#: includes/functions.php:1626
+msgid "Time Zone"
+msgstr ""
+
+#: includes/functions.php:1627
+msgid "IP Address"
+msgstr ""
+
+#: includes/functions.php:1630
+msgid "Terms Agreement"
+msgstr ""
+
+#: includes/functions.php:1632
+msgid "Add To Notes"
+msgstr ""
+
+#: includes/functions.php:1633
+msgid "Apply Value as Tag"
+msgstr ""
+
+#: includes/functions.php:1634
+msgid "Add as Custom Meta"
+msgstr ""
+
+#: includes/functions.php:1635
+msgid "Upload File"
+msgstr ""
+
+#: includes/functions.php:1637
+msgid "UTM Content"
+msgstr ""
+
+#: includes/functions.php:1638
+msgid "UTM Medium"
+msgstr ""
+
+#: includes/functions.php:1639
+msgid "UTM Term"
+msgstr ""
+
+#: includes/functions.php:1640
+msgid "UTM Source"
+msgstr ""
+
+#: includes/functions.php:1910
+#, php-format
+msgctxt "status"
+msgid "%s ago"
+msgstr ""
+
+#: includes/functions.php:1910
+#, php-format
+msgctxt "status"
+msgid "in %s"
+msgstr ""
+
+#: includes/functions.php:1939
+msgid "local time"
+msgstr ""
+
+#: includes/lib/edd/GH_EDD_SL_Plugin_Updater.php:225
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/lib/edd/GH_EDD_SL_Plugin_Updater.php:233
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/lib/edd/GH_EDD_SL_Plugin_Updater.php:472
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/lib/edd/GH_EDD_SL_Plugin_Updater.php:472
+#: includes/steps/error.php:12
+msgid "Error"
+msgstr ""
+
+#: includes/license-manager.php:153
+msgctxt "notice"
+msgid "Invalid license format"
+msgstr ""
+
+#: includes/license-manager.php:204 includes/license-manager.php:277
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: includes/license-manager.php:211 includes/license-manager.php:284
+#, php-format
+msgctxt "notice"
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: includes/license-manager.php:216 includes/license-manager.php:289
+msgctxt "notice"
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: includes/license-manager.php:219 includes/license-manager.php:292
+msgctxt "notice"
+msgid "Invalid license."
+msgstr ""
+
+#: includes/license-manager.php:223 includes/license-manager.php:296
+msgctxt "notice"
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: includes/license-manager.php:226 includes/license-manager.php:299
+msgctxt "notice"
+msgid "This appears to be an invalid license key"
+msgstr ""
+
+#: includes/license-manager.php:229 includes/license-manager.php:302
+msgctxt "notice"
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: includes/license-manager.php:232 includes/license-manager.php:305
+msgctxt "notice"
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: includes/license-manager.php:318
+msgctxt "notice"
+msgid "License activated"
+msgstr ""
+
+#: includes/license-manager.php:354 includes/license-manager.php:360
+msgctxt "notice"
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/license-manager.php:363
+msgctxt "notice"
+msgid "License deactivated."
+msgstr ""
+
+#: includes/mailhawk.php:79 includes/send-wp.php:78
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: includes/mailhawk.php:169
+msgid "MailHawk plugin not found. Please try again."
+msgstr ""
+
+#: includes/mailhawk.php:184
+msgid "Your site is connected to MailHawk."
+msgstr ""
+
+#: includes/mailhawk.php:190 includes/send-wp.php:190
+#, php-format
+msgid "%1$sManage your account%2$s."
+msgstr ""
+
+#: includes/mailhawk.php:197
+#, php-format
+msgid ""
+"Email sending is currently disabled. %1$sVisit the MailHawk Settings%2$s to "
+"enable sending.."
+msgstr ""
+
+#: includes/mailhawk.php:209
+msgid "Connect MailHawk"
+msgstr ""
+
+#: includes/mailhawk.php:253 includes/send-wp.php:251
+msgid "A better way to send email."
+msgstr ""
+
+#: includes/mailhawk.php:257
+msgid ""
+"Never worry about sending email again! <a href=\"https://mailhawk.io/\" "
+"target=\"_blank\">MailHawk</a> takes care of everything for you for starting "
+"at <b>$14.97/month!</b>"
+msgstr ""
+
+#: includes/main-roles.php:40
+msgctxt "role"
+msgid "Marketer"
+msgstr ""
+
+#: includes/main-roles.php:74
+msgctxt "role"
+msgid "Sales Manager"
+msgstr ""
+
+#: includes/main-roles.php:84
+msgctxt "role"
+msgid "Sales Representative"
+msgstr ""
+
+#: includes/main-updater.php:342
+msgid "Refactor contact optin statuses to meet new format."
+msgstr ""
+
+#: includes/main-updater.php:343
+msgid ""
+"Revert update 2.1.13 if rogue updated refactored optin status more than once."
+msgstr ""
+
+#: includes/main-updater.php:344
+msgid "Give funnel events higher priority than broadcast events."
+msgstr ""
+
+#: includes/main-updater.php:345
+msgid ""
+"Add micro_time column to events table for better display of events order."
+msgstr ""
+
+#: includes/main-updater.php:346
+msgid "Add missing index on `claim` column."
+msgstr ""
+
+#: includes/main-updater.php:347
+msgid "Event queue performance improvements."
+msgstr ""
+
+#: includes/main-updater.php:348
+msgid "Reformat all tables."
+msgstr ""
+
+#: includes/preferences.php:85 includes/preferences.php:174
+msgctxt "notice"
+msgid "No Contact"
+msgstr ""
+
+#: includes/preferences.php:91
+msgctxt "optin_status"
+msgid "This contact has not agreed to receive email marketing from you."
+msgstr ""
+
+#: includes/preferences.php:100
+msgctxt "optin_status"
+msgid ""
+"Unconfirmed. This contact will not receive emails, they are passed the email "
+"confirmation grace period."
+msgstr ""
+
+#: includes/preferences.php:104
+msgctxt "optin_status"
+msgid "Unconfirmed. They will receive marketing."
+msgstr ""
+
+#: includes/preferences.php:107
+msgctxt "optin_status"
+msgid "Confirmed. They will receive marketing."
+msgstr ""
+
+#: includes/preferences.php:110
+msgctxt "optin_status"
+msgid "Unsubscribed. They will not receive marketing."
+msgstr ""
+
+#: includes/preferences.php:113
+msgctxt "optin_status"
+msgid "This contact will only receive marketing weekly."
+msgstr ""
+
+#: includes/preferences.php:116
+msgctxt "optin_status"
+msgid "This contact will only receive marketing monthly."
+msgstr ""
+
+#: includes/preferences.php:119
+msgctxt "optin_status"
+msgid "This email address bounced, they will not receive marketing."
+msgstr ""
+
+#: includes/preferences.php:122
+msgctxt "optin_status"
+msgid "This contact was marked as spam. They will not receive marketing."
+msgstr ""
+
+#: includes/preferences.php:125
+msgctxt "optin_status"
+msgid ""
+"This contact complained about your emails. They will not receive marketing."
+msgstr ""
+
+#: includes/preferences.php:139
+msgctxt "optin_status"
+msgid "Unconfirmed"
+msgstr ""
+
+#: includes/preferences.php:142
+msgctxt "optin_status"
+msgid "Confirmed"
+msgstr ""
+
+#: includes/preferences.php:145
+msgctxt "optin_status"
+msgid "Unsubscribed"
+msgstr ""
+
+#: includes/preferences.php:148
+msgctxt "optin_status"
+msgid "Subscribed Weekly"
+msgstr ""
+
+#: includes/preferences.php:151
+msgctxt "optin_status"
+msgid "Subscribed Monthly"
+msgstr ""
+
+#: includes/preferences.php:154
+msgctxt "optin_status"
+msgid "Bounced"
+msgstr ""
+
+#: includes/preferences.php:157
+msgctxt "optin_status"
+msgid "Spam"
+msgstr ""
+
+#: includes/preferences.php:160
+msgctxt "optin_status"
+msgid "Complained"
+msgstr ""
+
+#: includes/queue/email-notification.php:78
+msgid "Email Notification"
+msgstr ""
+
+#: includes/queue/event-queue.php:125
+msgctxt "cron_schedule"
+msgid "Every Minute"
+msgstr ""
+
+#: includes/replacements.php:64
+msgctxt "replacement"
+msgid "The contact's ID number."
+msgstr ""
+
+#: includes/replacements.php:69 includes/replacements.php:74
+msgctxt "replacement"
+msgid "The contact's first name."
+msgstr ""
+
+#: includes/replacements.php:79 includes/replacements.php:84
+#: includes/replacements.php:94
+msgctxt "replacement"
+msgid "The contact's last name."
+msgstr ""
+
+#: includes/replacements.php:89
+msgctxt "replacement"
+msgid "The contact's full name."
+msgstr ""
+
+#: includes/replacements.php:99
+msgctxt "replacement"
+msgid "The contact's email address."
+msgstr ""
+
+#: includes/replacements.php:104
+msgctxt "replacement"
+msgid "The contact's phone number."
+msgstr ""
+
+#: includes/replacements.php:109
+msgctxt "replacement"
+msgid "The contact's phone number extension."
+msgstr ""
+
+#: includes/replacements.php:114
+msgctxt "replacement"
+msgid "The contact's full address."
+msgstr ""
+
+#: includes/replacements.php:119
+msgctxt "replacement"
+msgid "The contact's company name."
+msgstr ""
+
+#: includes/replacements.php:124
+msgctxt "replacement"
+msgid "The contact's job title."
+msgstr ""
+
+#: includes/replacements.php:129
+msgctxt "replacement"
+msgid "The contact's company address."
+msgstr ""
+
+#: includes/replacements.php:134
+msgctxt "replacement"
+msgid "Any meta data related to the contact. Usage: {meta.attribute}"
+msgstr ""
+
+#: includes/replacements.php:139
+msgctxt "replacement"
+msgid ""
+"Any data related to the contact's linked user record. Usage: {user.attribute}"
+msgstr ""
+
+#: includes/replacements.php:144
+msgctxt "replacement"
+msgid "The business name as defined in the settings."
+msgstr ""
+
+#: includes/replacements.php:149
+msgctxt "replacement"
+msgid "The business phone number as defined in the settings."
+msgstr ""
+
+#: includes/replacements.php:154
+msgctxt "replacement"
+msgid "The business address as defined in the settings."
+msgstr ""
+
+#: includes/replacements.php:159
+msgctxt "replacement"
+msgid "The site url."
+msgstr ""
+
+#: includes/replacements.php:164 includes/replacements.php:169
+msgctxt "replacement"
+msgid "The contact owner's name."
+msgstr ""
+
+#: includes/replacements.php:174
+msgctxt "replacement"
+msgid "The contact owner's email address."
+msgstr ""
+
+#: includes/replacements.php:179
+msgctxt "replacement"
+msgid "The contact owner's phone number."
+msgstr ""
+
+#: includes/replacements.php:184
+msgctxt "replacement"
+msgid "A link to confirm the email address of a contact."
+msgstr ""
+
+#: includes/replacements.php:189
+msgctxt "replacement"
+msgid ""
+"A link to confirm the email address of a contact which can be placed in a "
+"button or link."
+msgstr ""
+
+#: includes/replacements.php:194
+msgctxt "replacement"
+msgid ""
+"Insert a dynamic date. Usage {date.format|time}. Example: {date.Y-m-d|+2 "
+"days}"
+msgstr ""
+
+#: includes/replacements.php:199
+msgctxt "replacement"
+msgid "Insert all the files in a contact's file box."
+msgstr ""
+
+#: includes/replacements.php:204
+msgctxt "replacement"
+msgid ""
+"Inserts a random quote from the movie Groundhog Day featuring Bill Murray"
+msgstr ""
+
+#: includes/replacements.php:408
+msgid "Replacement Code"
+msgstr ""
+
+#: includes/replacements.php:444
+msgctxt "replacement"
+msgid "Insert Replacement"
+msgstr ""
+
+#: includes/replacements.php:716
+msgid "Confirm your email."
+msgstr ""
+
+#: includes/replacements.php:832
+msgid "No files found."
+msgstr ""
+
+#: includes/reporting/new-reports/base-quick-stat-percent.php:59
+#: includes/reporting/new-reports/base-quick-stat.php:72
+#, php-format
+msgid ".vs Previous %s Days"
+msgstr ""
+
+#: includes/reporting/new-reports/base-table-report.php:37
+msgid "No information available."
+msgstr ""
+
+#: includes/reporting/new-reports/chart-email-activity.php:60
+msgid "Emails sent"
+msgstr ""
+
+#: includes/reporting/new-reports/chart-email-activity.php:80
+#: includes/reporting/reports/emails-opened.php:40
+#: includes/steps/actions/send-email.php:285
+msgid "Emails Opened"
+msgstr ""
+
+#: includes/reporting/new-reports/chart-email-activity.php:99
+#: includes/reporting/reports/emails-clicked.php:40
+#: includes/steps/actions/send-email.php:289
+msgid "Emails Clicked"
+msgstr ""
+
+#: includes/reporting/new-reports/chart-funnel-breakdown.php:24
+#: includes/reporting/new-reports/table-funnel-stats.php:26
+msgid "Completed"
+msgstr ""
+
+#: includes/reporting/new-reports/table-benchmark-conversion-rate.php:22
+#: includes/reporting/new-reports/table-benchmark-conversion-rate.php:24
+msgid "# Contacts"
+msgstr ""
+
+#: includes/reporting/new-reports/table-benchmark-conversion-rate.php:23
+msgid "To"
+msgstr ""
+
+#: includes/reporting/new-reports/table-broadcast-link-clicked.php:21
+#: includes/reporting/new-reports/table-email-links-clicked.php:18
+msgid "Link"
+msgstr ""
+
+#: includes/reporting/new-reports/table-broadcast-link-clicked.php:22
+#: includes/reporting/new-reports/table-email-links-clicked.php:19
+msgid "Uniques"
+msgstr ""
+
+#: includes/reporting/new-reports/table-broadcast-link-clicked.php:23
+#: includes/reporting/new-reports/table-email-links-clicked.php:20
+msgid "Clicks"
+msgstr ""
+
+#: includes/reporting/new-reports/table-broadcast-stats.php:54
+#: includes/reporting/new-reports/table-email-stats.php:31
+msgid "Subject"
+msgstr ""
+
+#: includes/reporting/new-reports/table-broadcast-stats.php:69
+#: includes/reporting/new-reports/table-email-stats.php:39
+msgid "Total Delivered"
+msgstr ""
+
+#: includes/reporting/new-reports/table-broadcast-stats.php:85
+#: includes/reporting/new-reports/table-email-stats.php:57
+msgid "Opens"
+msgstr ""
+
+#: includes/reporting/new-reports/table-broadcast-stats.php:101
+#: includes/reporting/new-reports/table-email-stats.php:74
+msgid "Total Clicks"
+msgstr ""
+
+#: includes/reporting/new-reports/table-broadcast-stats.php:107
+#: includes/reporting/new-reports/table-email-stats.php:80
+msgid "Unique Clicks"
+msgstr ""
+
+#: includes/reporting/new-reports/table-broadcast-stats.php:127
+msgid "Unopened"
+msgstr ""
+
+#: includes/reporting/new-reports/table-email-funnels-used-in.php:23
+#: includes/reporting/new-reports/table-top-converting-funnels.php:23
+msgid "Funnel"
+msgstr ""
+
+#: includes/reporting/new-reports/table-form-activity.php:25
+msgid "Unique Impressions"
+msgstr ""
+
+#: includes/reporting/new-reports/table-form-activity.php:26
+msgid "Total Impressions"
+msgstr ""
+
+#: includes/reporting/new-reports/table-form-activity.php:126
+msgid "You have no active forms."
+msgstr ""
+
+#: includes/reporting/new-reports/table-funnel-stats.php:25
+msgid "Steps"
+msgstr ""
+
+#: includes/reporting/new-reports/table-worst-performing-emails.php:45
+msgid "No emails performing below minimum expectations!"
+msgstr ""
+
+#: includes/reporting/reporting.php:125
+msgctxt "reporting_range"
+msgid "Today"
+msgstr ""
+
+#: includes/reporting/reporting.php:126
+msgctxt "reporting_range"
+msgid "Yesterday"
+msgstr ""
+
+#: includes/reporting/reporting.php:127
+msgctxt "reporting_range"
+msgid "This Week"
+msgstr ""
+
+#: includes/reporting/reporting.php:128
+msgctxt "reporting_range"
+msgid "Last Week"
+msgstr ""
+
+#: includes/reporting/reporting.php:129
+msgctxt "reporting_range"
+msgid "Last 7 Days"
+msgstr ""
+
+#: includes/reporting/reporting.php:130
+msgctxt "reporting_range"
+msgid "Last 14 Days"
+msgstr ""
+
+#: includes/reporting/reporting.php:131
+msgctxt "reporting_range"
+msgid "Last 30 Days"
+msgstr ""
+
+#: includes/reporting/reporting.php:132
+msgctxt "reporting_range"
+msgid "This Month"
+msgstr ""
+
+#: includes/reporting/reporting.php:133
+msgctxt "reporting_range"
+msgid "Last Month"
+msgstr ""
+
+#: includes/reporting/reporting.php:134
+msgctxt "reporting_range"
+msgid "This Quarter"
+msgstr ""
+
+#: includes/reporting/reporting.php:135
+msgctxt "reporting_range"
+msgid "Last Quarter"
+msgstr ""
+
+#: includes/reporting/reporting.php:136
+msgctxt "reporting_range"
+msgid "This Year"
+msgstr ""
+
+#: includes/reporting/reporting.php:137
+msgctxt "reporting_range"
+msgid "Last Year"
+msgstr ""
+
+#: includes/reporting/reporting.php:138
+msgctxt "reporting_range"
+msgid "All Time"
+msgstr ""
+
+#: includes/reporting/reporting.php:139
+msgctxt "reporting_range"
+msgid "Custom Range"
+msgstr ""
+
+#: includes/reporting/reports/complete-funnel-activity.php:41
+msgid "Complete Funnel Activity"
+msgstr ""
+
+#: includes/reporting/reports/contacts-by-lead-source.php:27
+msgid "Contacts By Lead Source"
+msgstr ""
+
+#: includes/reporting/reports/contacts-by-optin-status.php:27
+msgid "Contacts By Optin Status"
+msgstr ""
+
+#: includes/reporting/reports/contacts-by-search-engine.php:32
+msgid "Contacts By Search Engine"
+msgstr ""
+
+#: includes/reporting/reports/contacts-by-social-media.php:28
+msgid "Contacts By Social Media"
+msgstr ""
+
+#: includes/reporting/reports/contacts-by-source-page.php:27
+msgid "Contacts By Source Page"
+msgstr ""
+
+#: includes/reporting/reports/contacts-by-utm-campaign.php:27
+msgid "Contacts By UTM Campaign"
+msgstr ""
+
+#: includes/reporting/reports/form-impressions.php:40
+msgid "Form Impressions"
+msgstr ""
+
+#: includes/reporting/reports/form-submissions.php:36
+msgid "Form Submissions"
+msgstr ""
+
+#: includes/reporting/reports/waiting-funnel-activity.php:41
+msgid "Waiting Funnel Activity"
+msgstr ""
+
+#: includes/reviews.php:24
+#, php-format
+msgid ""
+"Is Groundhogg working for you? Show your appreciation by leaving a %s "
+"review! %s | %s | %s"
+msgstr ""
+
+#: includes/reviews.php:26
+msgid "I'll leave a review!"
+msgstr ""
+
+#: includes/reviews.php:27
+msgid "I don't want to"
+msgstr ""
+
+#: includes/reviews.php:28
+msgid "I already did"
+msgstr ""
+
+#: includes/send-wp.php:169
+msgid "SendWP Plugin not found. Please try again."
+msgstr ""
+
+#: includes/send-wp.php:184
+msgid "Your site is connected to SendWP."
+msgstr ""
+
+#: includes/send-wp.php:197
+#, php-format
+msgid ""
+"Email sending is currently disabled. %1$sVisit the SendWP Settings%2$s to "
+"enable sending.."
+msgstr ""
+
+#: includes/send-wp.php:209
+msgid "Connect SendWP"
+msgstr ""
+
+#: includes/send-wp.php:253
+msgid ""
+"Never worry about sending email again! <a href=\"https://sendwp.com/\" "
+"target=\"_blank\">SendWP</a> takes care of everything for you for just <b>$9/"
+"month!</b>"
+msgstr ""
+
+#: includes/sending-service.php:221
+msgctxt "action"
+msgid "Send Test Email"
+msgstr ""
+
+#: includes/sending-service.php:245
+#, php-format
+msgid "Test message sent successfully to %s!"
+msgstr ""
+
+#: includes/sending-service.php:452
+msgctxt "settings_page"
+msgid "DNS Records"
+msgstr ""
+
+#: includes/sending-service.php:468
+msgctxt "guided_setup"
+msgid ""
+"Your account has been enabled to send emails & text messages! To finish this "
+"configuration, please add the following DNS records to your DNS zone."
+msgstr ""
+
+#: includes/sending-service.php:469
+msgctxt "guided_setup"
+msgid "Learn about adding DNS records."
+msgstr ""
+
+#: includes/sending-service.php:470
+msgctxt "guided_setup"
+msgid ""
+"After you have added the DNS records your domain will be automatically "
+"verified and emails/sms will be sent using the Groundhogg Sending Service."
+msgstr ""
+
+#: includes/sending-service.php:478 includes/sending-service.php:508
+msgctxt "column_label"
+msgid "Name"
+msgstr ""
+
+#: includes/sending-service.php:479 includes/sending-service.php:509
+msgctxt "column_label"
+msgid "Type"
+msgstr ""
+
+#: includes/sending-service.php:480 includes/sending-service.php:510
+msgctxt "column_label"
+msgid "Value"
+msgstr ""
+
+#: includes/stats-collection.php:50
+msgctxt "notice"
+msgid "You have insufficient permissions to do this."
+msgstr ""
+
+#: includes/stats-collection.php:58
+msgctxt "notice"
+msgid "This site was already registered and has been opted back in."
+msgstr ""
+
+#: includes/stats-collection.php:70
+#, php-format
+msgctxt "notice"
+msgid ""
+"Thank you! &rarr; <a href=\"%s\" target=\"_blank\">Use my discount code!</a>"
+msgstr ""
+
+#: includes/stats-collection.php:72
+#, php-format
+msgid ""
+"Hi %s,\n"
+"\n"
+"Thank you for opting in to our anonymous usage tracking system. Because of "
+"you we will be able to create better WordPress products for you in the near "
+"and distant future.\n"
+"As a thank you, you've received a discount code for 15%% off any premium "
+"plan.\n"
+"\n"
+"Upgrade Now >> [%s]\n"
+"\n"
+"Note, you have 7 days to use this code.\n"
+"\n"
+"We appreciate your help, enjoy!\n"
+"\n"
+"@ the Groundhogg Team"
+msgstr ""
+
+#: includes/stats-collection.php:85
+msgid "[Groundhogg] Download your free extension."
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:57
+msgctxt "step_name"
+msgid "Admin Notification"
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:77
+msgctxt "step_description"
+msgid "Send an email or SMS notification to any email or list of emails."
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:104
+msgid "Send as SMS"
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:108
+msgid "Send as a text message instead of as an email."
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:120
+msgid "Use any email address or the {owner_email} replacement code."
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:124
+msgid "From:"
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:127
+msgid ""
+"The email address which you want to send email from. Accepts one email "
+"address."
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:131
+msgid "Reply To:"
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:134
+msgid ""
+"The email address which you can reply to. Use any address or the {email} "
+"code."
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:138
+msgid "Subject:"
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:141
+#: includes/steps/actions/admin-notification.php:156
+#: includes/steps/actions/apply-note.php:81
+msgid "Use any valid replacement codes."
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:148
+msgid ""
+"Use any mobile phone number. Include country code! Also accepts {owner_phone}"
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:153
+#: includes/steps/actions/apply-note.php:78
+msgid "Content:"
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:165
+msgid "Hide admin links"
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:169
+msgid ""
+"Will hide the admin links to the contact record in the footer of the email."
+msgstr ""
+
+#: includes/steps/actions/admin-notification.php:264
+msgid "Manage Contact"
+msgstr ""
+
+#: includes/steps/actions/apply-note.php:41
+msgctxt "step_name"
+msgid "Apply Note"
+msgstr ""
+
+#: includes/steps/actions/apply-note.php:59
+msgctxt "step_description"
+msgid "Add a note to the notes section of a contact."
+msgstr ""
+
+#: includes/steps/actions/apply-tag.php:44
+msgctxt "step_name"
+msgid "Apply Tag"
+msgstr ""
+
+#: includes/steps/actions/apply-tag.php:62
+msgctxt "step_description"
+msgid "Add a tag to a contact."
+msgstr ""
+
+#: includes/steps/actions/apply-tag.php:82
+msgid "Apply These Tags:"
+msgstr ""
+
+#: includes/steps/actions/apply-tag.php:84
+#: includes/steps/actions/remove-tag.php:86
+#: includes/steps/benchmarks/tag-applied.php:98
+#: includes/steps/benchmarks/tag-removed.php:96
+msgid "Add new tags by hitting [enter] or by typing a [comma]."
+msgstr ""
+
+#: includes/steps/actions/base/lms-enroll.php:18
+msgid "Change Enrollment"
+msgstr ""
+
+#: includes/steps/actions/base/lms-enroll.php:45
+msgid "Enroll students in a course or unenroll students form a course."
+msgstr ""
+
+#: includes/steps/actions/base/lms-enroll.php:60
+#: includes/steps/benchmarks/base/lms-integration.php:149
+msgid "Action"
+msgstr ""
+
+#: includes/steps/actions/base/lms-enroll.php:69
+msgid "Enroll Student"
+msgstr ""
+
+#: includes/steps/actions/base/lms-enroll.php:70
+msgid "Unenroll Student"
+msgstr ""
+
+#: includes/steps/actions/base/lms-enroll.php:84
+#: includes/steps/benchmarks/base/lms-integration.php:174
+msgid "Course"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:45
+msgctxt "step_name"
+msgid "Delay Timer"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:63
+msgctxt "step_description"
+msgid "Pause for the specified amount of time."
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:90
+msgid "Wait at least:"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:106
+msgid "Minutes"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:107
+msgid "Hours"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:108
+msgid "Days"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:109
+msgid "Weeks"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:110
+msgid "Months"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:120
+msgid "And run:"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:129
+msgid "Immediately"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:130
+msgid "At time of day"
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:146
+msgctxt "action"
+msgid "Run in the contact's local time."
+msgstr ""
+
+#: includes/steps/actions/delay-timer.php:151
+msgid "Run in the contact's local time."
+msgstr ""
+
+#: includes/steps/actions/remove-tag.php:42
+msgctxt "step_name"
+msgid "Remove Tag"
+msgstr ""
+
+#: includes/steps/actions/remove-tag.php:62
+msgctxt "step_description"
+msgid "Remove a tag from a contact."
+msgstr ""
+
+#: includes/steps/actions/remove-tag.php:84
+msgid "Remove These Tags:"
+msgstr ""
+
+#: includes/steps/actions/send-email.php:58
+msgctxt "step_name"
+msgid "Send Email"
+msgstr ""
+
+#: includes/steps/actions/send-email.php:76
+msgctxt "step_description"
+msgid "Send an email to a contact."
+msgstr ""
+
+#: includes/steps/actions/send-email.php:93
+msgctxt "notice"
+msgid ""
+"You have changes which have not been saved. Are you sure you want to exit?"
+msgstr ""
+
+#: includes/steps/actions/send-email.php:113
+msgid "Select an email to send:"
+msgstr ""
+
+#: includes/steps/actions/send-email.php:133
+msgctxt "action"
+msgid "Create New Email"
+msgstr ""
+
+#: includes/steps/actions/send-email.php:150
+msgid "Skip if confirmed?"
+msgstr ""
+
+#: includes/steps/actions/send-email.php:158
+msgid ""
+"Skip to next <b>Email Confirmed</b> benchmark if email is already confirmed."
+msgstr ""
+
+#: includes/steps/actions/send-email.php:231
+msgctxt "stats"
+msgid "C.T.R"
+msgstr ""
+
+#: includes/steps/actions/send-email.php:392
+msgid "You have not selected an email to send in one of your steps."
+msgstr ""
+
+#: includes/steps/actions/send-email.php:396
+msgid ""
+"You still have emails in draft mode! These emails will not be sent and will "
+"cause automation to stop."
+msgstr ""
+
+#: includes/steps/actions/sleep.php:43
+msgctxt "step_name"
+msgid "Sleep"
+msgstr ""
+
+#: includes/steps/actions/sleep.php:63
+msgctxt "step_description"
+msgid "Sleep for 1 second"
+msgstr ""
+
+#: includes/steps/benchmarks/account-created.php:49
+msgctxt "step_name"
+msgid "New User"
+msgstr ""
+
+#: includes/steps/benchmarks/account-created.php:68
+msgctxt "step_description"
+msgid ""
+"Runs whenever a WordPress account is created. Will create a contact if one "
+"does not exist."
+msgstr ""
+
+#: includes/steps/benchmarks/account-created.php:87
+msgid "User Role(s):"
+msgstr ""
+
+#: includes/steps/benchmarks/account-created.php:90
+msgid "New users with these roles will trigger this benchmark."
+msgstr ""
+
+#: includes/steps/benchmarks/base/form-integration.php:64
+#: includes/steps/benchmarks/form-integration.php:59
+msgid "Run when this form is submitted"
+msgstr ""
+
+#: includes/steps/benchmarks/base/form-integration.php:75
+#: includes/steps/benchmarks/base/form-integration.php:76
+#: includes/steps/benchmarks/form-integration.php:70
+#: includes/steps/benchmarks/form-integration.php:71
+msgid "Map Fields"
+msgstr ""
+
+#: includes/steps/benchmarks/base/form-integration.php:77
+#: includes/steps/benchmarks/form-integration.php:72
+#: includes/utils/html.php:495 templates/preferences.php:222
+#: templates/preferences.php:323
+msgid "Save Changes"
+msgstr ""
+
+#: includes/steps/benchmarks/base/form-integration.php:134
+#: includes/steps/benchmarks/form-integration.php:132
+msgid "Please select a valid form and update first."
+msgstr ""
+
+#: includes/steps/benchmarks/base/form-integration.php:163
+#: includes/steps/benchmarks/form-integration.php:161
+msgid "Field ID"
+msgstr ""
+
+#: includes/steps/benchmarks/base/form-integration.php:164
+#: includes/steps/benchmarks/form-integration.php:162
+msgid "Field Label"
+msgstr ""
+
+#: includes/steps/benchmarks/base/form-integration.php:165
+#: includes/steps/benchmarks/form-integration.php:163
+msgid "Map To"
+msgstr ""
+
+#: includes/steps/benchmarks/base/form-integration.php:185
+#: includes/steps/benchmarks/form-integration.php:182
+msgid "Your form map configuration is invalid."
+msgstr ""
+
+#: includes/steps/benchmarks/base/lms-integration.php:113
+msgid "LMS Action"
+msgstr ""
+
+#: includes/steps/benchmarks/base/lms-integration.php:123
+msgid "Automation for specific LMS based events."
+msgstr ""
+
+#: includes/steps/benchmarks/base/lms-integration.php:158
+msgid "Course Enrolled"
+msgstr ""
+
+#: includes/steps/benchmarks/base/lms-integration.php:159
+msgid "Course Completed"
+msgstr ""
+
+#: includes/steps/benchmarks/base/lms-integration.php:160
+msgid "Lesson Completed"
+msgstr ""
+
+#: includes/steps/benchmarks/base/lms-integration.php:197
+msgid "Lesson"
+msgstr ""
+
+#: includes/steps/benchmarks/email-confirmed.php:38
+msgctxt "step_name"
+msgid "Email Confirmed"
+msgstr ""
+
+#: includes/steps/benchmarks/email-confirmed.php:58
+msgctxt "step_description"
+msgid "Runs whenever a contact confirms their email."
+msgstr ""
+
+#: includes/steps/benchmarks/email-confirmed.php:81
+msgid "Runs whenever an email is confirmed while in this funnel"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:56
+msgctxt "step_name"
+msgid "Web Form"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:74
+msgctxt "step_description"
+msgid ""
+"Use this form builder to create forms and display them on your site with "
+"shortcodes."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:156
+msgid "Embed:"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:162
+msgid "Shortcode"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:171
+msgid "Iframe"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:180
+msgid "HTML"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:189
+msgid "Hosted"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:201
+#: includes/steps/benchmarks/form-filled.php:202
+msgid "Preview"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:218
+msgid "Submit via AJAX:"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:232
+msgid "Enable Ajax"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:238
+msgid "Thank You Message:"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:246
+msgid "Thank You Message"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:247
+msgid "Your submission has been received."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:260
+msgid "Thank You Page:"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:269
+msgid "Thank You Page"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:288
+msgid "Row"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:292
+msgid "Col"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:296
+msgid "First"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:300
+msgid "Last"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:312
+msgid "Address"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:320
+msgid "GDPR"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:328
+#: includes/steps/benchmarks/form-filled.php:503
+msgid "Text"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:332
+msgid "Textarea"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:336
+msgid "Number"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:340
+msgid "Dropdown"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:344
+msgid "Radio"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:348
+msgid "Checkbox"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:352
+msgid "Date"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:356
+msgid "Time"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:360
+msgid "File"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:364
+msgid "ReCaptcha"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:378
+msgid "Field"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:379
+#, php-format
+msgid "Insert Field: %s"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:382
+msgid "Insert Field"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:483
+msgid "Required Field"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:494
+msgid "Label"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:500
+msgid "The field label."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:509
+msgid "The button text."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:512
+msgid "Placeholder"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:519
+msgid "The ghost text within the field."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:530
+msgid "This will be the custom field name. I.E. {meta.name}"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:536
+msgid "Min"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:544
+msgid "The minimum number a user can enter."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:548
+msgid "Max"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:556
+msgid "The max number a user can enter."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:568
+msgid "The default value of the field."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:572
+msgid "Add Tag"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:581
+msgid "Add a tag when this checkbox is selected."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:586
+msgid "Options"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:615
+msgctxt "action"
+msgid "Add Option"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:619
+msgid ""
+"Enter option name to add option. Tags are optional.You need to save options "
+"when you make changes."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:623
+msgid "Allow Multiple Selections"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:633
+msgid "Default"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:642
+msgid "The blank option which appears at the top of the list."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:648
+msgid "Width"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:663
+msgid "The width of the column."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:669
+#: includes/steps/benchmarks/form-filled.php:682
+msgid "Theme"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:679
+msgid "The Captcha Theme."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:692
+msgid "The Captcha Size."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:698
+msgid "Min Date"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:707
+msgid ""
+"The minimum date a user can enter. You can enter a dynamic date or static "
+"date."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:711
+msgid "Max Date"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:720
+msgid ""
+"The maximum date a user can enter. You can enter a dynamic date or static "
+"date."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:727
+msgid "Min Time"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:735
+msgid ""
+"The minimum time a user can enter. You can enter a dynamic time or static "
+"time."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:739
+msgid "Max Time"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:747
+msgid ""
+"The maximum time a user can enter. You can enter a dynamic time or static "
+"time."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:754
+msgid "Max File Size"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:764
+#, php-format
+msgid ""
+"Maximum size a file can be <b>in Bytes</b>. Your max upload size is %d Bytes."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:768
+msgid "Accepted File Types"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:776
+msgid ""
+"The types of files a user may upload (comma separated). Leave empty to not "
+"specify."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:787
+msgid "CSS ID"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:790
+#: includes/steps/benchmarks/form-filled.php:799
+msgid "Use to apply CSS."
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:793
+msgid "CSS Class"
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:857
+msgid "Views: "
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:863
+msgid "Fills: "
+msgstr ""
+
+#: includes/steps/benchmarks/form-filled.php:877
+msgid "CVR: "
+msgstr ""
+
+#: includes/steps/benchmarks/link-clicked.php:26
+msgctxt "step_name"
+msgid "Link Click"
+msgstr ""
+
+#: includes/steps/benchmarks/link-clicked.php:46
+msgctxt "step_description"
+msgid ""
+"Runs whenever a special link is clicked and redirects the user to another "
+"page."
+msgstr ""
+
+#: includes/steps/benchmarks/link-clicked.php:70
+msgid "Copy This Link:"
+msgstr ""
+
+#: includes/steps/benchmarks/link-clicked.php:73
+msgid ""
+"Paste this link in any email or page. Once a contact clicks it the benchmark "
+"will be completed and the contact will be redirected to the page set below."
+msgstr ""
+
+#: includes/steps/benchmarks/link-clicked.php:83
+msgid "Redirect To:"
+msgstr ""
+
+#: includes/steps/benchmarks/link-clicked.php:86
+msgid "Contacts will be redirected to this link."
+msgstr ""
+
+#: includes/steps/benchmarks/tag-applied.php:45
+msgctxt "step_name"
+msgid "Tag Applied"
+msgstr ""
+
+#: includes/steps/benchmarks/tag-applied.php:63
+msgctxt "step_description"
+msgid "Runs whenever any of the specified tags are added to a contact."
+msgstr ""
+
+#: includes/steps/benchmarks/tag-applied.php:90
+#: includes/steps/benchmarks/tag-removed.php:88
+msgid "any"
+msgstr ""
+
+#: includes/steps/benchmarks/tag-applied.php:91
+#: includes/steps/benchmarks/tag-removed.php:89
+msgid "all"
+msgstr ""
+
+#: includes/steps/benchmarks/tag-applied.php:96
+#, php-format
+msgid "Run when %s of these tags are applied:"
+msgstr ""
+
+#: includes/steps/benchmarks/tag-removed.php:43
+msgctxt "step_name"
+msgid "Tag Removed"
+msgstr ""
+
+#: includes/steps/benchmarks/tag-removed.php:61
+msgctxt "step_description"
+msgid "Runs whenever any of the specified tags are removed from a contact."
+msgstr ""
+
+#: includes/steps/benchmarks/tag-removed.php:94
+#, php-format
+msgid "Run when %s of these tags are removed:"
+msgstr ""
+
+#: includes/steps/error.php:49
+#, php-format
+msgid ""
+"<b>%s</b> settings were not found. This may be because you disabled an add-"
+"on which utilized this step type."
+msgstr ""
+
+#: includes/steps/funnel-step.php:449
+#, php-format
+msgid "Reporting %s"
+msgstr ""
+
+#: includes/steps/funnel-step.php:453
+msgid "History"
+msgstr ""
+
+#: includes/steps/funnel-step.php:496
+msgid "Waiting:"
+msgstr ""
+
+#: includes/steps/funnel-step.php:524
+msgid "Completed:"
+msgstr ""
+
+#: includes/steps/funnel-step.php:755 includes/steps/funnel-step.php:844
+msgid "Step Title"
+msgstr ""
+
+#: includes/steps/funnel-step.php:794
+msgid "You can use this area to store custom notes about the step."
+msgstr ""
+
+#: includes/steps/funnel-step.php:853
+msgid "Run on which blog?"
+msgstr ""
+
+#: includes/steps/funnel-step.php:868
+msgid "Any blog"
+msgstr ""
+
+#: includes/tag-mapping.php:59
+msgid "Tags have been reset!"
+msgstr ""
+
+#: includes/tag-mapping.php:66
+msgctxt "action"
+msgid "Reset Tags"
+msgstr ""
+
+#: includes/tag-mapping.php:199
+#, php-format
+msgid ""
+"New features are now available, but we need to perform an upgrade process "
+"first! %s"
+msgstr ""
+
+#: includes/tag-mapping.php:517
+msgctxt "notice"
+msgid ""
+"Job finished! Optin status & User Role tag mapping has now been enabled."
+msgstr ""
+
+#: includes/tag-query.php:602
+msgid "Inexistent tags."
+msgstr ""
+
+#: includes/tools.php:452
+#, php-format
+msgid "%s safe mode is currently enabled. All other plugins are inactive. %s"
+msgstr ""
+
+#: includes/tracking.php:670
+msgid "Oops... This link is currently unavailable."
+msgstr ""
+
+#: includes/upgrade-notice.php:28
+#, php-format
+msgid ""
+"You are now using Groundhogg 2.0! We promise better usability, performance, "
+"efficiency and business happiness with the newest upgrades. %s"
+msgstr ""
+
+#: includes/upgrade-notice.php:29
+msgid "What's new in 2.0?"
+msgstr ""
+
+#: includes/utils/graph.php:200
+msgid "Load"
+msgstr ""
+
+#: includes/utils/html.php:121
+msgid "No items found."
+msgstr ""
+
+#: includes/utils/html.php:494
+msgid "Open Modal"
+msgstr ""
+
+#: includes/utils/html.php:803
+msgid "Please Select a Tag"
+msgstr ""
+
+#: includes/utils/html.php:884
+msgid "Please select a contact"
+msgstr ""
+
+#: includes/utils/html.php:918
+msgid "Please select an email"
+msgstr ""
+
+#: includes/utils/html.php:953
+msgid "Please select an SMS"
+msgstr ""
+
+#: includes/utils/html.php:986
+msgid "Please select one or more benchmarks"
+msgstr ""
+
+#: includes/utils/html.php:1028
+msgid "Please select one or more steps."
+msgstr ""
+
+#: includes/utils/html.php:1050
+msgid "Please select 1 or more meta keys"
+msgstr ""
+
+#: includes/utils/html.php:1147
+msgid "Upload Image"
+msgstr ""
+
+#: includes/utils/html.php:1156
+msgid "Src"
+msgstr ""
+
+#: includes/utils/html.php:1163
+msgid "Alt Tag"
+msgstr ""
+
+#: includes/utils/html.php:1170
+msgid "Title"
+msgstr ""
+
+#: includes/utils/html.php:1195
+msgid "Start typing..."
+msgstr ""
+
+#: includes/utils/installer.php:49
+msgid "Run Install"
+msgstr ""
+
+#: includes/utils/installer.php:66
+msgid "Re-installed successful!"
+msgstr ""
+
+#: includes/utils/updater.php:82
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: includes/utils/updater.php:178
+#, php-format
+msgid "Update to version %s successful!"
+msgstr ""
+
+#: includes/utils/updater.php:180
+msgid "Update failed."
+msgstr ""
+
+#: includes/utils/updater.php:324
+msgid "Upgrade Database Now!"
+msgstr ""
+
+#: includes/utils/updater.php:333
+#, php-format
+msgid "Required Upgrades:<span style='font-weight: normal'><ul>%s</ul></span>"
+msgstr ""
+
+#: includes/utils/updater.php:336
+#, php-format
+msgid ""
+"%s requires a database upgrade. Consider backing up your site before "
+"upgrading. </p>%s<p>%s"
+msgstr ""
+
+#: includes/utils/updater.php:353
+#, php-format
+msgid "%s upgraded successfully!"
+msgstr ""
+
+#: templates/emails/browser-view.php:12
+msgid "Could not load email..."
+msgstr ""
+
+#: templates/emails/email.php:7
+msgid "Could not load this email"
+msgstr ""
+
+#: templates/emails/email.php:7
+msgid "Error loading email."
+msgstr ""
+
+#: templates/emails/footer-default.php:61
+msgid "Change preferences"
+msgstr ""
+
+#: templates/emails/footer-default.php:63
+msgid "Don't want these emails?"
+msgstr ""
+
+#: templates/emails/footer-default.php:67
+msgid "Unsubscribe"
+msgstr ""
+
+#: templates/emails/footer-default.php:105
+msgid "This email was sent with"
+msgstr ""
+
+#. translators: Login screen title. 1: Login screen name, 2: Network or site name
+#: templates/emails/header-default.php:98 templates/managed-page.php:90
+#, php-format
+msgid "%1$s &lsaquo; %2$s"
+msgstr ""
+
+#: templates/emails/header-default.php:187
+msgid "View In Browser..."
+msgstr ""
+
+#: templates/managed-page.php:102
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: templates/managed-page.php:146
+#, php-format
+msgctxt "site"
+msgid "&larr; Back to %s"
+msgstr ""
+
+#: templates/managed-page.php:147
+msgid "Edit Profile"
+msgstr ""
+
+#: templates/preferences.php:49
+msgid ""
+"You are receiving this message because you have requested an audit of your "
+"personal information. This message contains all current information about "
+"your contact profile.\n"
+msgstr ""
+
+#: templates/preferences.php:54
+msgid "Basic Information"
+msgstr ""
+
+#: templates/preferences.php:62
+msgid "Other Information"
+msgstr ""
+
+#: templates/preferences.php:70
+msgid "Profile Tags"
+msgstr ""
+
+#: templates/preferences.php:83
+msgid "Files"
+msgstr ""
+
+#: templates/preferences.php:90
+#, php-format
+msgid "Your personal profile audit with %s"
+msgstr ""
+
+#: templates/preferences.php:131 templates/preferences.php:290
+msgid "Manage Preferences"
+msgstr ""
+
+#: templates/preferences.php:136
+msgid "Please enter your email address to manage your preferences."
+msgstr ""
+
+#: templates/preferences.php:138
+msgid "your.name@domain.com"
+msgstr ""
+
+#: templates/preferences.php:152
+#, php-format
+msgid "Profile information sent to your inbox %s!"
+msgstr ""
+
+#: templates/preferences.php:162
+msgid "Something went wrong sending your email."
+msgstr ""
+
+#: templates/preferences.php:176
+msgid "You must verify your email address."
+msgstr ""
+
+#: templates/preferences.php:188
+msgid "Profile updated!"
+msgstr ""
+
+#: templates/preferences.php:195
+msgid "Update Profile"
+msgstr ""
+
+#: templates/preferences.php:200
+#, php-format
+msgid "Update information for <span class=\"contact-name\">%s (%s)</span>."
+msgstr ""
+
+#: templates/preferences.php:202
+msgid "Use the form below to update your information to the most current."
+msgstr ""
+
+#: templates/preferences.php:215
+msgid "Confirm Email Address"
+msgstr ""
+
+#: templates/preferences.php:226
+msgid ""
+"Click below to manage your communication preferences and determine when and "
+"how you would like to receive communication from us."
+msgstr ""
+
+#: templates/preferences.php:229
+msgid "Change Email Preferences"
+msgstr ""
+
+#: templates/preferences.php:234
+msgid ""
+"Click below to email yourself an audit of all personal information currently "
+"on file. Or if you wish for us to no longer have access to this information "
+"you can request a data erasure in accordance with your privacy rights."
+msgstr ""
+
+#: templates/preferences.php:237
+msgid "Download Profile"
+msgstr ""
+
+#: templates/preferences.php:239
+msgid "Erase Profile"
+msgstr ""
+
+#: templates/preferences.php:283
+msgid "Preferences saved!"
+msgstr ""
+
+#: templates/preferences.php:293
+msgctxt "preferences"
+msgid ""
+"I love this company, you can communicate with me whenever you feel like."
+msgstr ""
+
+#: templates/preferences.php:294
+msgctxt "preferences"
+msgid "It's getting a bit much. Communicate with me weekly."
+msgstr ""
+
+#: templates/preferences.php:295
+msgctxt "preferences"
+msgid "Distance makes the heart grow fonder. Communicate with me monthly."
+msgstr ""
+
+#: templates/preferences.php:296
+msgctxt "preferences"
+msgid "I no longer wish to receive any form of communication. Unsubscribe me!"
+msgstr ""
+
+#: templates/preferences.php:300
+msgctxt "preferences"
+msgid "Unsubscribe me and delete any personal information about me."
+msgstr ""
+
+#: templates/preferences.php:310
+#, php-format
+msgid "Managing preferences for <span class=\"contact-name\">%s (%s)</span>."
+msgstr ""
+
+#: templates/preferences.php:349
+#, php-format
+msgid "Your email address %s has just been unsubscribed."
+msgstr ""
+
+#: templates/preferences.php:351
+msgid ""
+"Further interactions with our site may be interpreted as re-subscribing to "
+"our list and will result in further electronic communication."
+msgstr ""
+
+#: templates/preferences.php:354 templates/preferences.php:381
+#: templates/preferences.php:414
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: templates/preferences.php:376
+#, php-format
+msgid "Your email address %s has just been confirmed!"
+msgstr ""
+
+#: templates/preferences.php:378
+#, php-format
+msgid ""
+"You will now receive electronic communication from %1$s. Should you wish to "
+"change your communication preferences you may do so at any time by clicking "
+"the <b>Manage Preferences</b> link or <b>Unsubscribe</b> link in the footer "
+"of any email sent by %1$s."
+msgstr ""
+
+#: templates/preferences.php:406
+msgid "Erased"
+msgstr ""
+
+#: templates/preferences.php:410
+msgid "Your data has been erased!"
+msgstr ""
+
+#: templates/preferences.php:411
+msgid ""
+"Further interactions with our site may be interpreted as re-subscribing to "
+"our list and will result in further communication."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.groundhogg.io/?utm_source=wp-plugins&utm_campaign=plugin-"
+"uri&utm_medium=wp-dash"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "CRM and marketing automation for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Groundhogg Inc."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid ""
+"https://www.groundhogg.io/?utm_source=wp-plugins&utm_campaign=author-"
+"uri&utm_medium=wp-dash"
+msgstr ""

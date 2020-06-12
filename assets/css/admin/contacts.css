@@ -1,0 +1,46 @@
+#wpbody-content .inline-edit-row-contact .inline-edit-col-left{
+    width: 50%;
+}
+
+#wpbody-content .inline-edit-row-contact .inline-edit-col-right{
+    width: 50%;
+}
+
+.search-label{
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#search-filters{
+    margin-top: 20px;
+}
+
+.search-param {
+    display: inline-block;
+    margin: 5px;
+    max-width: 300px;
+    /*min-height: 150px;*/
+    /*min-width: 300px;*/
+    vertical-align: top;
+    padding: 10px;
+    /*border: 1px solid #e5e5e5;*/
+}
+
+.search-param select{
+    max-width: 100%;
+}
+
+.start-search{
+    padding-left: 15px;
+}
+
+.wp-list-table #first_name,
+.wp-list-table #user_id,
+.wp-list-table #owner_id,
+.wp-list-table #last_name{
+    width: 125px;
+}
+
+.wp-list-table #date_created{
+    width: 200px;
+}

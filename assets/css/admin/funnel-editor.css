@@ -1,0 +1,469 @@
+
+#funnel-chart {
+    display: none;
+}
+
+.reporting-enabled #funnel-chart{
+    display: block;
+    background: white;
+    padding: 20px;
+    border-width: 0 0 1px 0;
+    border-color: #ddd;
+    box-sizing: border-box;
+    border-style: solid;
+}
+
+/* Full Screen */
+.full-screen #adminmenumain,
+.full-screen #wpadminbar{
+    display: none;
+}
+
+.full-screen #wpcontent{
+    margin: 0;
+}
+
+html.full-screen{
+    padding: 0;
+}
+
+.full-screen .funnel-editor-header{
+    top: 0;
+}
+
+/* END Full Screen */
+
+
+/* NEW STUFF */
+#wpbody-content{
+    /*height: 100vh;*/
+}
+
+.trigger-popup{
+    font-weight: normal;
+}
+
+table.embed-options td{
+    padding: 0 !important;
+}
+
+.button.button-secondary.submit.trigger-popup {
+    background: #f7f7f7 !important;
+    border-color: #ccc !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    float: none !important;
+    padding: 0 10px 1px !important;
+    margin: 2px !important;
+}
+
+#wpcontent {
+    padding-left: 0 !important;
+    box-sizing: border-box;
+}
+
+#poststuff {
+    padding-top: 0px;
+    margin-top: 47px;
+}
+
+.replacements-button,
+.add-contacts-link{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.header-wrap{
+    width:100%;
+}
+
+#post-body.columns-2 #postbox-container-1 {
+    float: right;
+    margin-right: -300px;
+    width: 300px;
+}
+
+#postbox-container-1{
+    /*overflow: auto;*/
+}
+
+#postbox-container-1 .postbox{
+    border: none;
+    box-shadow: none;
+    border-bottom: 1px solid #e5e5e5;
+    margin: 0;
+}
+
+.funnel-editor-header{
+    z-index: 999;
+    top: 32px;
+    box-sizing: border-box;
+    position: fixed;
+    height: 47px;
+    padding: 8px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #e2e4e7;
+    display: block;
+    width: inherit;
+}
+
+.funnel-editor-header div{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.funnel-editor-header div.hidden{
+    display: none;
+}
+
+.funnel-editor-header .status-options{
+    float: right;
+    margin-right: 20px;
+}
+
+.funnel-editor-header #title{
+    border: none;
+    width: 300px;
+    font-size: 18px;
+    box-shadow: none;
+}
+
+.funnel-editor-header #reporting input[type='text']{
+    vertical-align: top;
+    max-width: 100px;
+}
+
+#reporting select{
+    vertical-align: top;
+}
+
+.notice {
+    margin: 0 0 1px 0;
+}
+
+/* END NEW STUFF */
+.form-buttons .button{
+    margin: 2px;
+}
+
+.form-buttons {
+    margin: 0 0 5px 0;
+}
+
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-top: 30px solid #ffffff;
+    position: absolute;
+}
+
+.full-width{
+    width: 100%;
+}
+
+.wpgh-element{
+    /*height: 112px;*/
+    text-align: center;
+}
+
+.step-icon img{
+    margin: 0 auto 0 auto;
+    width:80%;
+}
+
+.wpgh-element div{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100%;
+    /*padding-top: 10px;*/
+    /*padding-bottom: 70px;*/
+}
+.wpgh-element p{
+    margin: -12px 0 0 0;
+}
+
+.hndle label {
+    margin: 0 10px 0 0;
+}
+
+.wpgh-element.ui-draggable-dragging {
+    width: 100px;
+    height: 120px;
+    border-radius: 5px;
+}
+
+#actions table,
+#benchmarks table{
+    box-sizing: border-box;
+    width: 100%;
+    border-spacing: 7px;
+}
+
+#actions table td,
+#benchmarks table td{
+    text-align: center;
+    /*border: 1px solid #F1F1F1;*/
+
+}
+
+#actions table td .wpgh-element,
+#benchmarks table td .wpgh-element,
+.wpgh-element p{
+    text-align: center;
+    cursor: move;
+}
+
+.wpgh-element.ui-draggable-dragging {
+    width: 120px;
+    background: #FFFFFF;
+    border: 1px solid #F1F1F1;
+}
+
+.funnel-editor .sortable-placeholder {
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.funnel-editor .postbox.action .hndle{
+    background-color: rgb(241, 253, 243);
+}
+
+.funnel-editor .postbox.benchmark .hndle{
+    background-color: rgba(0, 103, 153, 0.07);
+    border-radius: 20px 20px 0 0;
+}
+
+.funnel-editor .postbox.action {
+    /*background-color: rgb(241, 253, 243);*/
+    width: 620px;
+    border-radius: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.funnel-editor .postbox.benchmark{
+    /*background-color: rgb(255, 254, 218);*/
+    width: 580px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.step .inside select {
+    vertical-align: top;
+}
+
+#postbox-container-2{
+    padding: 40px 0 40px 0;
+    background-size: 40px 40px;
+    border-right: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    margin-top: -1px;
+    background-image: linear-gradient(to right, #e5e5e5 1px, transparent 1px), linear-gradient(to bottom, #e5e5e5 1px, transparent 1px);
+    box-sizing: border-box;
+    overflow: auto;
+    /*height: 90vh;*/
+}
+.onoffswitch {
+    position: relative; width: 106px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    display: none !important;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 1px solid #E3E3E3; border-radius: 3px;
+}
+.onoffswitch-inner {
+    display: block; width: 200%; margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+}
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+    display: block; float: left; width: 50%; height: 27px; padding: 0; line-height: 23px;
+    font-size: 14px; color: white;
+    box-sizing: border-box;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+}
+.onoffswitch-inner:before {
+    content: "Active";
+    padding-left: 10px;
+    background-color: #FFFFFF; color: #000000;
+}
+#reporting .onoffswitch-inner:before {
+    content: "Reporting";
+}
+.onoffswitch-inner:after {
+    content: "Inactive";
+    padding-right: 10px;
+    background-color: #FFFFFF; color: #666666;
+    text-align: right;
+}
+#reporting .onoffswitch-inner:after {
+    content: "Editing";
+}
+
+.onoffswitch-switch {
+    display: block; width: 24px; margin: 0px;
+    background: #f7f7f7;
+    position: absolute; top: 0; bottom: 0;
+    right: 82px;
+    height: 26px;
+    border-width: 1px;
+    border-style: solid;
+    transition: all 0.3s ease-in 0s;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 #ccc;
+    border-color: #ccc;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+    right: 0px;
+    background-color: #0085ba;
+    box-shadow: 0 1px 0 #006799;
+    border-color: #0073aa #006799 #006799;
+}
+
+.step-reporting p,
+.report {
+    text-align: center;
+    font-size: 16px;
+}
+
+.hndle input {
+    background: none;
+    border: none;
+    box-shadow: none;
+    border-bottom: 1px solid rgba(85, 93, 102, 0.23);
+    vertical-align: top;
+}
+
+.hndle .hndle-icon{
+    border-radius: 100%;
+    background: #FFF;
+    margin-left: -38px;
+    margin-right: 10px;
+    margin-top: 12px;
+    margin-bottom: -37px;
+    border: 1px solid #e5e5e5;
+}
+
+.postbox.closed .hndle .hndle-icon{
+    margin-top: -3px;
+    margin-bottom: -8px;
+}
+
+.row-actions{
+    margin: 3px 0 0 3px;
+}
+
+.row-actions a{
+    text-decoration: none;
+}
+
+.save-notification{
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    margin: auto auto auto 10px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    background: #3ed920;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.add-contact-form{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.add-contact-form td {
+    padding-bottom: 30px;
+}
+
+.wpgh-funnel-builder{
+    overflow: auto;
+}
+/* MOBILE STUFF */
+
+@media only screen and (max-width: 600px) {
+    #postbox-container-1{
+        display: none;
+    }
+
+    .title{
+        padding: 10px;
+    }
+
+    .funnel-editor-header{
+        /*z-index: 99999;*/
+        width: 100%;
+        top: 0;
+        box-sizing: border-box;
+        position: initial;
+        height: auto;
+        padding: 0;
+        background: #FFFFFF;
+        border-bottom: 1px solid #e2e4e7;
+        display: block;
+    }
+
+    .wpgh-funnel-builder{
+        overflow: initial;
+    }
+
+    .funnel-editor .postbox.action,
+    .funnel-editor .postbox.benchmark{
+        max-width: 85%;
+    }
+
+    .hndle input{
+        max-width: 90%;
+        margin-left: 10px;
+    }
+
+    .funnel-editor-header div{
+        /*display: block;*/
+        vertical-align: top;
+        float: none;
+    }
+
+    #export,
+    #add-contacts{
+        display: none;
+    }
+
+    .funnel-editor-header .status-options{
+        float: none;
+    }
+
+    .status-options,
+    #reporting{
+        border-top: 1px solid #e2e4e7;
+        padding: 10px;
+        display: block !important;
+        margin: 0 !important;
+    }
+
+    .onoffswitch {
+        margin-top: 5px;
+    }
+
+}
+
+.form-table th {
+    width: auto;
+    max-width: 120px;
+}
+
+input, select, textarea{
+    max-width: 100% !important;
+}
